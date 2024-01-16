@@ -48,16 +48,16 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 ## Chemical bioactivity databases  
 
-- [ChEMBL database](https://www.ebi.ac.uk/chembl/)  
-- [BindingDB](https://www.bindingdb.org/)  
-- [PubChem database](https://pubchem.ncbi.nlm.nih.gov/)  
-- [PDBbind database](http://www.pdbbind.org.cn/index.php)  
-- [BRENDA Enzymes database](https://www.brenda-enzymes.org/)  
-- [ExCAPE-DB: ExCAPE chemogenomics database](https://solr.ideaconsult.net/search/excape/)  
-- [DrugBank](https://go.drugbank.com/)  
-- [ZINC](https://zinc.docking.org/)  
-- [ChemSpider](http://www.chemspider.com/)  
-- [DrugSpaceX](https://drugspacex.simm.ac.cn/)
+- [ChEMBL database](https://www.ebi.ac.uk/chembl/) -  A large-scale bioactivity database that focuses on bioactive molecules and their targets. It contains information on the binding, functional, and ADMET  properties of drugs.  
+- [BindingDB](https://www.bindingdb.org/) - A comprehensive database that provides information on the binding affinities of drugs to their target biomolecules.   
+- [PubChem database](https://pubchem.ncbi.nlm.nih.gov/) - Offers information on the biological activities of small molecules, including chemical structures, properties, and bioassay data.   
+- [PDBbind database](http://www.pdbbind.org.cn/index.php) - A database focusing on the experimentally measured binding affinities of biomolecular complexes. It includes data on protein-ligand complexes derived from the PDB, providing insights into the structures and energetics of protein-ligand interactions.
+- [BRENDA Enzymes database](https://www.brenda-enzymes.org/) - A comprehensive enzyme information system that collects and provides data on enzyme function, structure, and properties. It covers a wide range of enzyme-related information.
+- [ExCAPE-DB: ExCAPE chemogenomics database](https://solr.ideaconsult.net/search/excape/) - A chemogenomics database that integrates data on chemical compounds, protein targets, and biological activities.  
+- [DrugBank](https://go.drugbank.com/) - Provides comprehensive data on approved and investigational drugs, including details on chemical structures, pharmacology, and therapeutic indications.  
+- [ZINC](https://zinc.docking.org/) - A platform for researchers to explore and obtain compounds for various computational and experimental studies.  
+- [ChemSpider](http://www.chemspider.com/) - A free chemical database offering information on chemical structures, properties, and associated data.
+- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - A database designed to explore chemical and biological spaces related to drug discovery.  
 
 ## 3D protein structures databases  
 
