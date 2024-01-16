@@ -69,7 +69,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [AlphaFold protein structure database](https://alphafold.ebi.ac.uk/)  
 - [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page)
 
-  ## Protein engineering
+## Protein engineering
 
 - [DynaMut](https://biosig.lab.uq.edu.au/dynamut/)  
 
