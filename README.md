@@ -153,7 +153,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Peptimap](https://peptimap.bu.edu/)   
 - [MolAiCal](https://molaical.github.io/)  
 - [ChemMine Tools](https://chemminetools.ucr.edu/)
-- 
+
 ## Genomics
 
 - [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
