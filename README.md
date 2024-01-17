@@ -82,7 +82,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 ## Pharmacophore screening tools  
 
 - [ZINCPharmer](http://zincpharmer.csb.pitt.edu/) - A web-based pharmacophore screening tool that facilitates the exploration of chemical databases. It aids researchers in identifying potential ligands based on pharmacophoric features.
-- [Pharmit](https://pharmit.csb.pitt.edu/) - A pharmacophore modeling and virtual screening platform. It enables users to define and search for pharmacophoric patterns within chemical databases, assisting in the identification of compounds with specific bioactive properties for drug development.  
+- [Pharmit](https://pharmit.csb.pitt.edu/) - A pharmacophore modeling and virtual screening platform. It enables users to define and search for pharmacophoric patterns within chemical databases, assisting in the identification of compounds with specific bioactive properties for drug development.
+- [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - A web server designed for pharmacophore mapping with statistical methods.  
 
 ## Pharmacokinetics parameters prediction tools 
 
