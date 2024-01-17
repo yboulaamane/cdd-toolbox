@@ -25,25 +25,25 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 ## Natural Compounds Libraries
 
-- [COCONUT Natural Products](https://coconut.naturalproducts.net/) - A database with more than 400k natural products.  
+- [COCONUT Natural Products](https://coconut.naturalproducts.net/) - A database with more than 400k natural products compiled from over 50 sources.  
 - [LOTUS Natural Products](https://lotus.naturalproducts.net/) - Similar to COCONUT with a focus on molecular annotations, useful for sourcing organisms.  
-- [ZINC database](https://zinc20.docking.org/substances/subsets/biogenic/) - A vast collection of commercially available chemical compounds for virtual screening.  
+- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - A vast collection of >200k commercially available natural compounds for virtual screening.  
 - [Collective Molecular Activities of Useful Plants](http://bidd.group/CMAUP/) - A database emphasizing molecular activities of beneficial plants.  
-- [Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php) - A database linking natural product activities with their species sources.  
-- [Cannabis Compound Database](https://cannabisdatabase.ca/) - A specialized database focusing on compounds found in cannabis plants. 
+- [Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php) - A database linking 94k natural product activities with their species sources.  
+- [Cannabis Compound Database](https://cannabisdatabase.ca/) - A specialized database focusing on more than 6k compounds found in cannabis plants . 
 - [SuperNatural III](https://bioinf-applied.charite.de/supernatural_3/) - A database offering information on natural compounds and their biological activities.  
-- [FooDB](https://foodb.ca/) - A comprehensive database of food components, aiding in the exploration of the chemical composition of various foods.  
-- [AfroDB](http://african-compounds.org/about/afrodb/) - A database highlighting compounds from African medicinal plants, contributing to research in ethnopharmacology and drug discovery.    
-- [Comprehensive Marine Natural Products Database](https://www.cmnpd.org/) - A resource providing information on marine-derived natural products.  
-- [SistematX secondary metabolites database](https://sistematx.ufpb.br/) - A database focusing on secondary metabolites.  
-- [Eximed Natural-Product-Based Library](https://eximedlab.com/Screening-Compounds.html) - A collection of natural product-like compounds designed for high-throughput screening in drug discovery.  
-- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - A database specifically focusing on naturally occuring coumarin compounds.  
+- [FooDB](https://foodb.ca/) - A comprehensive database of >70k food components, aiding in the exploration of the chemical composition of various foods.  
+- [AfroDB](http://african-compounds.org/about/afrodb/) - A database highlighting >4k compounds from African medicinal plants, contributing to research in ethnopharmacology and drug discovery.    
+- [Comprehensive Marine Natural Products Database](https://www.cmnpd.org/) - A resource providing information on >31k marine-derived natural products.  
+- [SistematX secondary metabolites database](https://sistematx.ufpb.br/) - A database focusing on >8k secondary metabolites.  
+- [Eximed Natural-Product-Based Library](https://eximedlab.com/Screening-Compounds.html) - A collection of >5k natural product-like compounds designed for high-throughput screening in drug discovery.  
+- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - A database specifically focusing on some 900 naturally occuring coumarin compounds.  
 - [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - A database dedicated to compounds from the genus Artemisia.  
-- [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library) - A library of natural product-like compounds designed for high-throughput screening in drug discovery.  
+- [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library) - A library of >1k natural product-like compounds designed for high-throughput screening in drug discovery.  
 - [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database providing information on bioactive peptides and proteins with potential therapeutic applications.  
 - [IMPPAT](https://cb.imsc.res.in/imppat/home) - A database focused on immunomodulatory peptides and proteins, supporting research in immunopharmacology.  
-- [NP-MRD](https://np-mrd.org/natural_products) - A natural product database with a focus on marine-derived compounds. 
-- [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) -  A database providing information on natural compounds.
+- [NP-MRD](https://np-mrd.org/natural_products) - A natural product database with a focus on >280k NMR studies. 
+- [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) -  A database providing information on >60k natural compounds.
 - [Phytochemicals](https://www.phytochemicals.info/) - A comprehensive resource offering information on phytochemicals, supporting research in plant chemistry and pharmacology.  
 
 ## Chemical bioactivity databases  
@@ -71,14 +71,14 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 ## Protein engineering
 
-- [DynaMut](https://biosig.lab.uq.edu.au/dynamut/)  
+- [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - A web tool for the analysis and prediction of protein stability changes upon mutation using Normal Mode Analysis.  
 
 ## Binding site detection
 
-- [ProteinsPlus](https://proteins.plus/)  
-- [PrankWeb](https://prankweb.cz/)  
-- [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g)  
-- [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/)  
+- [ProteinsPlus](https://proteins.plus/) - A tool designed for the identification and analysis of protein binding sites. It facilitates the exploration of protein-ligand interactions.
+- [PrankWeb](https://prankweb.cz/) - A web-based platform specializing in the prediction and analysis of protein binding sites.   
+- [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g) - A resource for the detection and characterization of protein binding sites. It offers insights into the volume and area of cavities on protein surfaces, contributing to the study of ligand binding and functional sites.  
+- [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - A web server designed for the identification and analysis of protein cavities and binding sites. It provides tools for the characterization of binding pockets, assisting researchers in studying protein-ligand interactions and structure-based drug design.  
 
 ## Pharmacophore screening tools  
 
