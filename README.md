@@ -99,6 +99,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [QSAR Toolbox](https://qsartoolbox.org/) - The Toolbox is a free software for transparent chemical hazard assessment, offering tools for data retrieval, metabolism simulation, and property profiling. It aids in identifying analogues and chemical categories for read-across and trend analysis, filling data gaps.
 - [OCHEM](https://ochem.eu/home/show.do) - An online platform offering tools for building QSAR models for predictions of chemical properties.
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - A general cheminformatics software used to handle chemical data, in particular for drug design purposes including QSAR modeling.
+- [3D-QSAR](https://www.3d-qsar.com/) - A compilation of tools available online for 3D-QSAR modeling.
 
 ## Topology preparation
 
@@ -133,46 +134,34 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 ## Miscellaneous tools
 
-- [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk)  
-- [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)  
-- [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index)  
-- [MetaPredict](http://metapredict.icoa.fr/)  
-- [RPBS Web Portal](https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#welcome)  
-- [AI based scoring function platform](http://cadd.zju.edu.cn/asfp/?fbclid=IwAR0SlLlG6WxHVj7O3xvTufTWHdQR_heLefAWqGJXfY3z39-0sy3NxTd5X5E)  
-- [ChemPlot: A Tool For Chemical Space Visualization](https://chemplot.streamlit.app/)  
-- [ChemDB Chemoinformatics Portal](http://cdb.ics.uci.edu/)  
-- [TorchDrug](https://torchdrug.ai/)  
-- [Open Targets Platform](https://platform.opentargets.org/)  
-- [3D-QSAR](https://www.3d-qsar.com/)  
-- [Screening Explorer](http://stats.drugdesign.fr/)  
-- [LigRMSD](https://ligrmsd.appsbio.utalca.cl/)  
-- [BoBER: web interface to the base of bioisosterically exchangeable replacements](http://bober.insilab.org/)  
-- [Disease List Automatically Derived For You](http://dlad4u.zhang-lab.org/index.php)  
-- [Python Code Examples](https://www.programcreek.com/python/)  
-- [NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/)  
-- [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/)  
-- [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/)   
-- [PrankWeb: Ligand Binding Site Prediction](https://prankweb.cz/)   
-- [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search)   
-- [AutoDock Vina web server](https://durrantlab.pitt.edu/webina/)   
-- [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/)  
-- [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/)   
-- [Peptimap](https://peptimap.bu.edu/)   
-- [MolAiCal](https://molaical.github.io/)  
-- [ChemMine Tools](https://chemminetools.ucr.edu/)
-
-## Genomics
-
-- [SYNTENY PORTAL](http://bioinfo.konkuk.ac.kr/synteny_portal/)  
-- [The Polygenic Score Catalog](https://www.pgscatalog.org/)  
-- [PubMLST](https://pubmlst.org/)  
-
-## Lipidomics
-
-- [LipidSig: a web-based tool for lipidomic data analysis](http://www.chenglab.cmu.edu.tw/lipidsig/DE/)  
+- [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk) - Useful for converting chemical names into structured representations.
+- [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - An Optical Structure Recognition tool that converts graphical representations of chemical structures, such as images, into connection tables. 
+- [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - A tool for profiling interactions between proteins and ligands. It helps analyze and visualize protein-ligand interactions, providing insights into molecular binding mechanisms.
+- [MetaPredict](http://metapredict.icoa.fr/) - A tool designed for predicting various molecular properties and activities. It supports computational chemistry by providing predictive models for diverse chemical entities.   
+- [RPBS Web Portal](https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#welcome) - A platform offering a range of tools for computational biology and chemistry.
+- [AI based scoring function platform](http://cadd.zju.edu.cn/asfp/?fbclid=IwAR0SlLlG6WxHVj7O3xvTufTWHdQR_heLefAWqGJXfY3z39-0sy3NxTd5X5E) - Employs artificial intelligence to develop scoring functions for evaluating molecular interactions. It aids in predicting binding affinities and guiding drug discovery efforts.
+- [ChemPlot: A Tool For Chemical Space Visualization](https://chemplot.streamlit.app/) - A tool dedicated to visualizing chemical space. 
+- [ChemDB Chemoinformatics Portal](http://cdb.ics.uci.edu/) - A chemoinformatics portal offering various tools for chemical data analysis. It supports tasks such as compound search, similarity analysis, and property prediction.  
+- [TorchDrug](https://torchdrug.ai/) - A cheminformatics toolkit based on PyTorch. It provides functionalities for molecular property prediction, compound screening, and deep learning-based analyses.  
+- [Open Targets Platform](https://platform.opentargets.org/) - The Open Targets Platform integrates genetic, genomic, and chemical data for target identification in drug discovery. 
+- [Screening Explorer](http://stats.drugdesign.fr/) - A tool designed for compound screening and analysis.
+- [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - A tool for calculating the root-mean-square deviation (RMSD) between ligand structures.  
+- [BoBER: web interface to the base of bioisosterically exchangeable replacements](http://bober.insilab.org/) - A web interface providing bioisosteric replacements for chemical structures.
+- [Disease List Automatically Derived For You](http://dlad4u.zhang-lab.org/index.php) - This tool automatically generates a list of diseases based on relevant data and criteria.
+- [Python Code Examples](https://www.programcreek.com/python/) - Provide code snippets and examples for common tasks in the Python programming language. It's a valuable resource for learning and implementing Python in scientific computing.
+- [NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/) - A new e-resource focused on drug discovery. It provides information and tools to support researchers in the drug development process.
+- [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/) - A tool designed for predicting molecular properties and activities. 
+- [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/) - This portal provides software tools for studying biomolecular interactions. 
+- [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search) - An AI-powered platform for retrosynthetic analysis. It assists chemists in designing synthetic routes for target compounds.
+- [AutoDock Vina web server](https://durrantlab.pitt.edu/webina/) - A web-based interface for molecular docking simulations. It aids in predicting the binding modes of ligands to target proteins. 
+- [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/) - A tool for identifying tunnels and channels in protein structures. It supports the analysis of ligand transport pathways.
+- [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - A tool for building ligand structures and conducting virtual screening. 
+- [Peptimap](https://peptimap.bu.edu/) - A tool dedicated to the analysis and visualization of peptide structures.
+- [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
+- [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
 
 ## Blogs
 
-- [Practical Fragments](http://practicalfragments.blogspot.com/)  
-- [avrilomics](https://avrilomics.blogspot.com/)  
-- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/)
+- [Practical Fragments](http://practicalfragments.blogspot.com/) - A blog focusing on fragment-based drug discovery. It provides practical insights, case studies, and discussions on the use of small fragments in drug design.
+- [avrilomics](https://avrilomics.blogspot.com/) - A blog covering topics in genomics, bioinformatics, and related fields. It offers insights, updates, and discussions on advancements and practical applications in these areas.
+- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - A blog dedicated to practical aspects of cheminformatics. It explores tools, techniques, and applications in the field of chemical informatics and computational chemistry. 
