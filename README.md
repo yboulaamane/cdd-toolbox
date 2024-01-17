@@ -12,16 +12,17 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 5. [Binding Site Detection](#binding-site-detection)
 6. [Pharmacophore Screening Tools](#pharmacophore-screening-tools)
 7. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
-8. [Topology Preparation](#topology-preparation)
-9. [Cheminformatics Free Courses](#cheminformatics-free-courses)
-10. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
-11. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
-12. [Peptide Design Tools](#peptide-design-tools)
-13. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
-14. [Useful Tools for Computational Chemistry](#useful-tools-for-computational-chemistry)
-15. [Genomics](#genomics)
-16. [Lipidomics](#lipidomics)
-17. [Blogs](#blogs)
+8. [QSAR modeling](#qsar-modeling)
+9. [Topology Preparation](#topology-preparation)
+10. [Cheminformatics Free Courses](#cheminformatics-free-courses)
+11. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
+12. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
+13. [Peptide Design Tools](#peptide-design-tools)
+14. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
+15. [Miscellaneous tools](#miscellaneous-tools)
+16. [Genomics](#genomics)
+17. [Lipidomics](#lipidomics)
+18. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
@@ -82,49 +83,55 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 ## Pharmacophore screening tools  
 
-- [ZINCPharmer](http://zincpharmer.csb.pitt.edu/)  
-- [Pharmit](https://pharmit.csb.pitt.edu/)  
+- [ZINCPharmer](http://zincpharmer.csb.pitt.edu/) - A web-based pharmacophore screening tool that facilitates the exploration of chemical databases. It aids researchers in identifying potential ligands based on pharmacophoric features.
+- [Pharmit](https://pharmit.csb.pitt.edu/) - A pharmacophore modeling and virtual screening platform. It enables users to define and search for pharmacophoric patterns within chemical databases, assisting in the identification of compounds with specific bioactive properties for drug development.  
 
 ## Pharmacokinetics parameters prediction tools 
 
-- [SwissADME](http://www.swissadme.ch/)  
-- [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/)  
-- [ADMETlab 2.0](https://admetmesh.scbdd.com/)  
-- [ProTox-II](https://tox-new.charite.de/protox_II/)  
-- [PreADMET](https://preadmet.webservice.bmdrc.org/)  
+- [SwissADME](http://www.swissadme.ch/) - A web tool for predicting pharmacokinetic parameters and drug-like properties. It assists researchers in assessing the drug-likeness and pharmacokinetic profile of small molecules. Supports multiple instances.
+- [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/) - A platform offering predictions for various physicochemical, pharmacokinetic and toxicity properties with the theory behind each prediction. Suitable for ADMET screening.
+- [ADMETlab 2.0](https://admetmesh.scbdd.com/) - A comprehensive tool for predicting absorption, distribution, metabolism, excretion, and toxicity properties of chemical compounds.
+- [ProTox-II](https://tox-new.charite.de/protox_II/) - A predictive tool for assessing the toxicity endpoints of drugs.  
+- [PreADMET](https://preadmet.webservice.bmdrc.org/) - A web service providing predictions for pharmacokinetic properties. Does not support multiple instances.
+- [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) A program designed to filter extensive compound libraries based on ADMET properties before in silico screening or modeling studies.
+
+## QSAR modeling
+- [QSAR Toolbox](https://qsartoolbox.org/) - The Toolbox is a free software for transparent chemical hazard assessment, offering tools for data retrieval, metabolism simulation, and property profiling. It aids in identifying analogues and chemical categories for read-across and trend analysis, filling data gaps.
+- [OCHEM](https://ochem.eu/home/show.do) - An online platform offering tools for building QSAR models for predictions of chemical properties.
+- [ChemMaster](https://crescent-silico.com/chemmaster/) - A general cheminformatics software used to handle chemical data, in particular for drug design purposes including QSAR modeling.
 
 ## Topology preparation
 
-- [CGenFF](https://cgenff.umaryland.edu/)  
-- [SwissParam](https://www.swissparam.ch/)  
-- [Automated Topology Builder](https://atb.uq.edu.au/)  
-- [CHARMM-GUI](https://www.charmm-gui.org/)  
+- [CGenFF](https://cgenff.umaryland.edu/) - Provides a force field parameterization platform for small organic molecules within the CHARMM force field. It assists researchers in preparing molecular topologies for use in molecular dynamics simulations.
+- [SwissParam](https://www.swissparam.ch/) - A tool for generating force field parameters for small molecules. 
+- [Automated Topology Builder](https://atb.uq.edu.au/) - A web-based tool for generating molecular topologies and force field parameters.
+- [CHARMM-GUI](https://www.charmm-gui.org/) - A user-friendly interface for CHARMM, providing tools for the generation of molecular topologies and input files for simulations.
 
 ## Cheminformatics free courses
 
-- [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K)   
-- [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC)   
-- [BIGCHEM (Big Data in Chemistry) | H2020](https://bigchem.eu/node/63)
+- [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) -  A YouTube playlist offering computational chemistry lectures by TMP Chem. It covers various aspects of computational chemistry, providing valuable insights for learners interested in the field.
+- [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - A YouTube playlist featuring lectures from the Strasbourg Summer School in Chemoinformatics. The content covers topics related to cheminformatics.
+- [BIGCHEM (Big Data in Chemistry) | H2020](https://bigchem.eu/node/63) - The BIGCHEM project provides free courses on big data in chemistry. It offers online resources and training materials to explore the intersection of big data and chemistry, fostering understanding and skills in cheminformatics.  
 
 ## Normal mode analysis for predicting protein motions
 
-- [iMod Server](https://imods.iqfr.csic.es/)  
+- [iMod Server](https://imods.iqfr.csic.es/) - A web-based platform dedicated to Normal Mode Analysis (NMA) for predicting protein motions. It allows researchers to analyze and simulate the vibrational modes of proteins, providing valuable insights into their dynamic behavior and structural flexibility. 
 
 ## Virtual screening server for drug repurposing
 
-- [DrugRep](http://cao.labshare.cn:10180/DrugRep/php/index.php)  
+- [DrugRep](http://cao.labshare.cn:10180/DrugRep/php/index.php) - A virtual screening server designed for drug repurposing. 
 
 ## Peptide design tools
 
-- [PepDraw](https://pepdraw.com/)  
-- [PepSite](http://pepsite2.russelllab.org/)  
+- [PepDraw](https://pepdraw.com/) - A web-based tool for designing and visualizing peptide structures.
+- [PepSite](http://pepsite2.russelllab.org/) - A peptide design tool that aids researchers in identifying potential binding sites on protein surfaces.  
 
 ## PROTAC database and ternary complex modelling
 
-- [PROTAC-db](http://cadd.zju.edu.cn/protacdb/)  
-- [PROsettaC](https://prosettac.weizmann.ac.il/)  
+- [PROTAC-db](http://cadd.zju.edu.cn/protacdb/) - A database focused on Proteolysis Targeting Chimeras (PROTACs). It provides a resource for researchers interested in PROTACs by offering information on their design, targets, and associated experimental data, aiding in the exploration of targeted protein degradation.  
+- [PROsettaC](https://prosettac.weizmann.ac.il/) - A platform for ternary complex modeling, specifically focusing on the structural modeling of protein-protein interactions. It provides tools for predicting the three-dimensional structures of protein complexes, contributing to the understanding of PROTAC-induced ternary complexes and their implications in drug discovery.
 
-## Useful tools for computational chemistry
+## Miscellaneous tools
 
 - [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk)  
 - [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi)  
