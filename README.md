@@ -20,9 +20,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 13. [Peptide Design Tools](#peptide-design-tools)
 14. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
 15. [Miscellaneous tools](#miscellaneous-tools)
-16. [Genomics](#genomics)
-17. [Lipidomics](#lipidomics)
-18. [Blogs](#blogs)
+16. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
