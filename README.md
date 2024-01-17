@@ -123,7 +123,9 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 ## Peptide design tools
 
 - [PepDraw](https://pepdraw.com/) - A web-based tool for designing and visualizing peptide structures.
-- [PepSite](http://pepsite2.russelllab.org/) - A peptide design tool that aids researchers in identifying potential binding sites on protein surfaces.  
+- [PepSite](http://pepsite2.russelllab.org/) - A peptide design tool that aids researchers in identifying potential binding sites on protein surfaces.
+- [Peptimap](https://peptimap.bu.edu/) - A tool dedicated to the analysis and visualization of peptide structures.
+
 
 ## PROTAC database and ternary complex modelling
 
@@ -154,7 +156,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [AutoDock Vina web server](https://durrantlab.pitt.edu/webina/) - A web-based interface for molecular docking simulations. It aids in predicting the binding modes of ligands to target proteins. 
 - [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/) - A tool for identifying tunnels and channels in protein structures. It supports the analysis of ligand transport pathways.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - A tool for building ligand structures and conducting virtual screening. 
-- [Peptimap](https://peptimap.bu.edu/) - A tool dedicated to the analysis and visualization of peptide structures.
 - [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
 
