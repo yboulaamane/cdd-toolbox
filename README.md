@@ -57,7 +57,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [ZINC](https://zinc.docking.org/) - A platform for researchers to explore and obtain compounds for various computational and experimental studies.  
 - [ChemSpider](http://www.chemspider.com/) - A free chemical database offering information on chemical structures, properties, and associated data.
 - [DrugSpaceX](https://drugspacex.simm.ac.cn/) - A database designed to explore chemical and biological spaces related to drug discovery.
-- [Therapeutics Data Commons](https://tdcommons.ai/)  
+- [Therapeutics Data Commons](https://tdcommons.ai/) - An AI foundation for therapeutic science, offering an intuitive interface for various learning tasks in the drug discovery field. 
 
 ## 3D protein structures databases  
 
