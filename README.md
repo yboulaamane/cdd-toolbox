@@ -56,7 +56,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [DrugBank](https://go.drugbank.com/) - Provides comprehensive data on approved and investigational drugs, including details on chemical structures, pharmacology, and therapeutic indications.  
 - [ZINC](https://zinc.docking.org/) - A platform for researchers to explore and obtain compounds for various computational and experimental studies.  
 - [ChemSpider](http://www.chemspider.com/) - A free chemical database offering information on chemical structures, properties, and associated data.
-- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - A database designed to explore chemical and biological spaces related to drug discovery.  
+- [DrugSpaceX](https://drugspacex.simm.ac.cn/) - A database designed to explore chemical and biological spaces related to drug discovery.
+- [Therapeutics Data Commons](https://tdcommons.ai/)  
 
 ## 3D protein structures databases  
 
@@ -77,7 +78,9 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [ProteinsPlus](https://proteins.plus/) - A tool designed for the identification and analysis of protein binding sites. It facilitates the exploration of protein-ligand interactions.
 - [PrankWeb](https://prankweb.cz/) - A web-based platform specializing in the prediction and analysis of protein binding sites.   
 - [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g) - A resource for the detection and characterization of protein binding sites. It offers insights into the volume and area of cavities on protein surfaces, contributing to the study of ligand binding and functional sites.  
-- [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - A web server designed for the identification and analysis of protein cavities and binding sites. It provides tools for the characterization of binding pockets, assisting researchers in studying protein-ligand interactions and structure-based drug design.  
+- [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - A web server designed for the identification and analysis of protein cavities and binding sites. It provides tools for the characterization of binding pockets, assisting researchers in studying protein-ligand interactions and structure-based drug design.
+- [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/) - A tool for identifying tunnels and channels in protein structures. It supports the analysis of ligand transport pathways.
+
 
 ## Pharmacophore screening tools  
 
@@ -155,7 +158,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/) - This portal provides software tools for studying biomolecular interactions. 
 - [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search) - An AI-powered platform for retrosynthetic analysis. It assists chemists in designing synthetic routes for target compounds.
 - [AutoDock Vina web server](https://durrantlab.pitt.edu/webina/) - A web-based interface for molecular docking simulations. It aids in predicting the binding modes of ligands to target proteins. 
-- [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/) - A tool for identifying tunnels and channels in protein structures. It supports the analysis of ligand transport pathways.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - A tool for building ligand structures and conducting virtual screening. 
 - [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
