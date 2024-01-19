@@ -15,7 +15,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 8. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
 9. [QSAR modeling](#qsar-modeling)
 10. [Topology Preparation](#topology-preparation)
-11. [Cheminformatics Free Courses](#cheminformatics-free-courses)
 12. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
 13. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
 14. [Peptide Design Tools](#peptide-design-tools)
@@ -24,7 +23,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 17. [Artificial intelligence for drug discovery](#artificial-intelligence-for-drug-discovery)
 18. [Retrosynthesis prediction](#retrosynthesis-prediction)
 19. [Miscellaneous tools](#miscellaneous-tools)
-20. [Blogs](#blogs)
+20. [Cheminformatics Free Courses](#cheminformatics-free-courses)
+21. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
@@ -132,12 +132,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Automated Topology Builder](https://atb.uq.edu.au/) - A web-based tool for generating molecular topologies and force field parameters.
 - [CHARMM-GUI](https://www.charmm-gui.org/) - A user-friendly interface for CHARMM, providing tools for the generation of molecular topologies and input files for simulations.
 
-## Cheminformatics free courses
-
-- [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) -  A YouTube playlist offering computational chemistry lectures by TMP Chem. It covers various aspects of computational chemistry, providing valuable insights for learners interested in the field.
-- [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - A YouTube playlist featuring lectures from the Strasbourg Summer School in Chemoinformatics. The content covers topics related to cheminformatics.
-- [BIGCHEM](https://bigchem.eu/node/63) - The BIGCHEM project provides free courses on big data in chemistry. It offers online resources and training materials to explore the intersection of big data and chemistry, fostering understanding and skills in cheminformatics.  
-
 ## Normal mode analysis for predicting protein motions
 
 - [iMod Server](https://imods.iqfr.csic.es/) - A web-based platform dedicated to Normal Mode Analysis (NMA) for predicting protein motions. It allows researchers to analyze and simulate the vibrational modes of proteins, providing valuable insights into their dynamic behavior and structural flexibility. 
@@ -209,10 +203,11 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
 - [MayaChemTools](http://www.mayachemtools.org/index.html) - A growing collection of Perl and Python scripts, modules, and classes designed to support diverse daily computational discovery needs. 
 
+## Cheminformatics free courses
 
-
-
-
+- [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) -  A YouTube playlist offering computational chemistry lectures by TMP Chem. It covers various aspects of computational chemistry, providing valuable insights for learners interested in the field.
+- [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - A YouTube playlist featuring lectures from the Strasbourg Summer School in Chemoinformatics. The content covers topics related to cheminformatics.
+- [BIGCHEM](https://bigchem.eu/node/63) - The BIGCHEM project provides free courses on big data in chemistry. It offers online resources and training materials to explore the intersection of big data and chemistry, fostering understanding and skills in cheminformatics.  
 
 ## Blogs
 
