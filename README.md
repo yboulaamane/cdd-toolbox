@@ -11,16 +11,17 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 4. [Protein Engineering](#protein-engineering)
 5. [Binding Site Detection](#binding-site-detection)
 6. [Pharmacophore Screening Tools](#pharmacophore-screening-tools)
-7. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
-8. [QSAR modeling](#qsar-modeling)
-9. [Topology Preparation](#topology-preparation)
-10. [Cheminformatics Free Courses](#cheminformatics-free-courses)
-11. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
-12. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
-13. [Peptide Design Tools](#peptide-design-tools)
-14. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
-15. [Miscellaneous tools](#miscellaneous-tools)
-16. [Blogs](#blogs)
+7. [Molecular docking](#molecular-docking)
+8. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
+9. [QSAR modeling](#qsar-modeling)
+10. [Topology Preparation](#topology-preparation)
+11. [Cheminformatics Free Courses](#cheminformatics-free-courses)
+12. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
+13. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
+14. [Peptide Design Tools](#peptide-design-tools)
+15. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
+16. [Miscellaneous tools](#miscellaneous-tools)
+17. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
@@ -86,7 +87,18 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 - [ZINCPharmer](http://zincpharmer.csb.pitt.edu/) - A web-based pharmacophore screening tool that facilitates the exploration of chemical databases. It aids researchers in identifying potential ligands based on pharmacophoric features.
 - [Pharmit](https://pharmit.csb.pitt.edu/) - A pharmacophore modeling and virtual screening platform. It enables users to define and search for pharmacophoric patterns within chemical databases, assisting in the identification of compounds with specific bioactive properties for drug development.
-- [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - A web server designed for pharmacophore mapping with statistical methods.  
+- [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - A web server designed for pharmacophore mapping with statistical methods.
+
+## Molecular docking
+
+- [MGLTools](https://ccsb.scripps.edu/mgltools/) - A software package designed for visualization and analysis of molecular structures including preparation of protein and ligand structures. 
+- [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - A GUI for setting up and analyzing molecular docking simulations using the AutoDock suite. It provides a user-friendly environment for preparing input files and visualizing docking results.
+- [AutoDock Vina](https://vina.scripps.edu/) - A molecular docking program that efficiently predicts the binding modes of small molecules to target proteins. It utilizes an advanced scoring function and optimization algorithm, making it widely used for virtual screening and drug discovery.
+- [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - A user-friendly tool built on top of AutoDock Vina, streamlining the molecular docking process. It simplifies the setup of docking simulations, making it accessible to users with varying levels of expertise.
+- [Smina](https://github.com/mwojcikowski/smina) - A fork of AutoDock Vina with additional features and optimizations. It focuses on improving scoring and minimization.
+- [Gnina](https://github.com/gnina/gnina) - A fork of Smina with integrated support for scoring and optimizing ligands using convolutional neural networks.
+- [EasyDock](https://github.com/ci-lab-cz/easydock) - A fully automated pipeline for molecular docking based on Vina with a full support of Smina and Gnina.
+
 
 ## Pharmacokinetics parameters prediction tools 
 
