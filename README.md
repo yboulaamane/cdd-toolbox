@@ -22,8 +22,9 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 15. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
 16. [Machine learning for drug discovery](#machine-learning-for-drug-discovery)
 17. [Artificial intelligence for drug discovery](#artificial-intelligence-for-drug-discovery)
-18. [Miscellaneous tools](#miscellaneous-tools)
-19. [Blogs](#blogs)
+18. [Retrosynthesis prediction](#retrosynthesis-prediction)
+19. [Miscellaneous tools](#miscellaneous-tools)
+20. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
@@ -177,6 +178,14 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [DEEPScreen](https://github.com/cansyl/DEEPScreen) - A Python-based tool for virtual screening studies with deep convolutional neural networks using compound images.  
 - [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A Python-based platform deployed by the MolecularAI group at AstraZeneca, for molecular design based on graph generation models. It employs graph neural networks to generate molecular graphs with desired properties.
 
+## Retrosynthesis prediction
+
+- [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search) - An AI-powered platform for retrosynthetic analysis. It assists chemists in designing synthetic routes for target compounds.
+- [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - A tool based on Monte Carlo tree search, designed for retrosynthetic planning in organic chemistry. It aids chemists in generating synthetic routes by exploring reaction databases and proposing viable retrosynthetic steps.
+- [ASKCOS](https://askcos.mit.edu/) -  An AI-driven platform developed for computer-assisted organic synthesis planning. Utilizing machine learning algorithms, ASKCOS assists chemists in predicting viable reaction pathways and proposing synthetic routes for target molecules.
+- [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - An AI-driven platform for automated reaction prediction and planning. Using advanced machine learning models, it enables researchers to predict the outcomes of chemical reactions and design synthetic routes for desired products.
+
+
 ## Miscellaneous tools
 
 - [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk) - Useful for converting chemical names into structured representations.
@@ -195,7 +204,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [NERDD New E-Resource for Drug Discovery](https://nerdd.univie.ac.at/) - A new e-resource focused on drug discovery. It provides information and tools to support researchers in the drug development process.
 - [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/) - A tool designed for predicting molecular properties and activities. 
 - [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/) - This portal provides software tools for studying biomolecular interactions. 
-- [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search) - An AI-powered platform for retrosynthetic analysis. It assists chemists in designing synthetic routes for target compounds.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - A tool for building ligand structures and conducting virtual screening. 
 - [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
