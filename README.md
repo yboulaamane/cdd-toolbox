@@ -214,5 +214,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - A blog focusing on fragment-based drug discovery. It provides practical insights, case studies, and discussions on the use of small fragments in drug design.
 - [avrilomics](https://avrilomics.blogspot.com/) - A blog covering topics in genomics, bioinformatics, and related fields. It offers insights, updates, and discussions on advancements and practical applications in these areas.
-- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - A blog dedicated to practical aspects of cheminformatics. It explores tools, techniques, and applications in the field of chemical informatics and computational chemistry. 
+- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - A blog dedicated to practical aspects of cheminformatics. It explores tools, techniques, and applications in the field of chemical informatics and computational chemistry.
+- [Cheminformania](https://www.cheminformania.com/) - A compilation of articles focused on valuable insights and hands-on demonstrations detailing diverse cheminformatic tasks, delving progressively deeper into the realm of deep learning and AI applications.
 - [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) - A blog that consolidates captivating frameworks, libraries, technologies, and insights to streamline the entire process of a Data Science project.
