@@ -20,8 +20,10 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 13. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
 14. [Peptide Design Tools](#peptide-design-tools)
 15. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
-16. [Miscellaneous tools](#miscellaneous-tools)
-17. [Blogs](#blogs)
+16. [Machine learning for drug discovery](#machine-learning-for-drug-discovery)
+17. [Artificial intelligence for drug discovery](#artificial-intelligence-for-drug-discovery)
+18. [Miscellaneous tools](#miscellaneous-tools)
+19. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
@@ -91,14 +93,21 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 ## Molecular docking
 
+- [OpenBabel](https://openbabel.org/index.html) - An open-source chemical toolbox designed for the interconversion of chemical file formats. Useful for batch preparing ligands for molecular docking.
 - [MGLTools](https://ccsb.scripps.edu/mgltools/) - A software package designed for visualization and analysis of molecular structures including preparation of protein and ligand structures. 
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - A GUI for setting up and analyzing molecular docking simulations using the AutoDock suite. It provides a user-friendly environment for preparing input files and visualizing docking results.
 - [AutoDock Vina](https://vina.scripps.edu/) - A molecular docking program that efficiently predicts the binding modes of small molecules to target proteins. It utilizes an advanced scoring function and optimization algorithm, making it widely used for virtual screening and drug discovery.
 - [EasyDockVina2](https://github.com/S3cr3t-SDN/EasyDockVina2) - A user-friendly tool built on top of AutoDock Vina, streamlining the molecular docking process. It simplifies the setup of docking simulations, making it accessible to users with varying levels of expertise.
+- [AutoDock Vina web server](https://durrantlab.pitt.edu/webina/) - A web-based interface for molecular docking simulations. It aids in predicting the binding modes of ligands to target proteins. 
 - [Smina](https://github.com/mwojcikowski/smina) - A fork of AutoDock Vina with additional features and optimizations. It focuses on improving scoring and minimization.
 - [Gnina](https://github.com/gnina/gnina) - A fork of Smina with integrated support for scoring and optimizing ligands using convolutional neural networks.
 - [EasyDock](https://github.com/ci-lab-cz/easydock) - A fully automated pipeline for molecular docking based on Vina with a full support of Smina and Gnina.
 
+## Molecular interaction visualization
+
+- [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - A tool for profiling interactions between proteins and ligands. It helps analyze and visualize protein-ligand interactions, providing insights into molecular binding mechanisms.  
+- [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - A Java-based program that automatically generates  2D ligand-protein interaction diagrams.  
+- [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - A powerful molecular visualization tool that allows users to explore and analyze complex biological and chemical information. It provides an intuitive interface for visualizing molecular structures, protein-ligand interactions, and conducting various analyses.  
 
 ## Pharmacokinetics parameters prediction tools 
 
@@ -148,17 +157,35 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [PROTAC-db](http://cadd.zju.edu.cn/protacdb/) - A database focused on Proteolysis Targeting Chimeras (PROTACs). It provides a resource for researchers interested in PROTACs by offering information on their design, targets, and associated experimental data, aiding in the exploration of targeted protein degradation.  
 - [PROsettaC](https://prosettac.weizmann.ac.il/) - A platform for ternary complex modeling, specifically focusing on the structural modeling of protein-protein interactions. It provides tools for predicting the three-dimensional structures of protein complexes, contributing to the understanding of PROTAC-induced ternary complexes and their implications in drug discovery.
 
+## Machine learning for drug discovery
+
+- [RDKit](https://www.rdkit.org/) - An open-source toolkit for cheminformatics and medicinal chemistry, RDKit facilitates tasks like molecular structure representation, substructure searching, and descriptor calculation.
+- [Google Colab](https://colab.research.google.com/) - A cloud-based platform that provides free access to Jupyter notebooks along with GPU support. It allows users to run and share Python code collaboratively, making it particularly useful for data analysis, machine learning, and research projects.
+- [Anaconda](https://www.anaconda.com/) - A distribution platform for Python and R programming languages, designed for data science, machine learning, and scientific computing.
+- [Pandas](https://pandas.pydata.org/) - An open-source data manipulation and analysis library for Python. It provides easy-to-use data structures, such as dataframes, and a plethora of functions for data cleaning, exploration, and transformation.
+- [Numpy](https://numpy.org/) - A library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
+- [Scikit-Learn](https://scikit-learn.org/stable/) - An open-source machine learning library for Python. It offers a simple and efficient toolkit for various machine learning tasks, including classification, regression, clustering, and dimensionality reduction.
+- [Matplotlib](https://matplotlib.org/) - A popular 2D plotting library for Python.
+- [Seaborn](https://seaborn.pydata.org/) - A statistical data visualization library based on Matplotlib. It simplifies the creation of attractive and informative statistical graphics in Python. 
+
+## Artificial intelligence for drug discovery
+
+- [Keras](https://keras.io/) - An open-source high-level neural networks API written in Python. It provides a user-friendly interface for building and experimenting with deep learning models. 
+- [TensorFlow](https://www.tensorflow.org/) - An open-source machine learning framework developed by Google. It offers a comprehensive set of tools for building and deploying machine learning models, with a particular emphasis on deep learning. 
+- [DeepChem](https://deepchem.io/) -  An open-source library for deep learning in drug discovery and cheminformatics
+- [TorchDrug](https://torchdrug.ai/) - A cheminformatics toolkit based on PyTorch. It provides functionalities for molecular property prediction, compound screening, and deep learning-based analyses.  
+- [DEEPScreen](https://github.com/cansyl/DEEPScreen) - A Python-based tool for virtual screening studies with deep convolutional neural networks using compound images.  
+- [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A Python-based platform deployed by the MolecularAI group at AstraZeneca, for molecular design based on graph generation models. It employs graph neural networks to generate molecular graphs with desired properties.
+
 ## Miscellaneous tools
 
 - [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk) - Useful for converting chemical names into structured representations.
 - [OSRA: Optical Structure Recognition](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - An Optical Structure Recognition tool that converts graphical representations of chemical structures, such as images, into connection tables. 
-- [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - A tool for profiling interactions between proteins and ligands. It helps analyze and visualize protein-ligand interactions, providing insights into molecular binding mechanisms.
 - [MetaPredict](http://metapredict.icoa.fr/) - A tool designed for predicting various molecular properties and activities. It supports computational chemistry by providing predictive models for diverse chemical entities.   
 - [RPBS Web Portal](https://mobyle.rpbs.univ-paris-diderot.fr/cgi-bin/portal.py#welcome) - A platform offering a range of tools for computational biology and chemistry.
 - [AI based scoring function platform](http://cadd.zju.edu.cn/asfp/?fbclid=IwAR0SlLlG6WxHVj7O3xvTufTWHdQR_heLefAWqGJXfY3z39-0sy3NxTd5X5E) - Employs artificial intelligence to develop scoring functions for evaluating molecular interactions. It aids in predicting binding affinities and guiding drug discovery efforts.
 - [ChemPlot: A Tool For Chemical Space Visualization](https://chemplot.streamlit.app/) - A tool dedicated to visualizing chemical space. 
 - [ChemDB Chemoinformatics Portal](http://cdb.ics.uci.edu/) - A chemoinformatics portal offering various tools for chemical data analysis. It supports tasks such as compound search, similarity analysis, and property prediction.  
-- [TorchDrug](https://torchdrug.ai/) - A cheminformatics toolkit based on PyTorch. It provides functionalities for molecular property prediction, compound screening, and deep learning-based analyses.  
 - [Open Targets Platform](https://platform.opentargets.org/) - The Open Targets Platform integrates genetic, genomic, and chemical data for target identification in drug discovery. 
 - [Screening Explorer](http://stats.drugdesign.fr/) - A tool designed for compound screening and analysis.
 - [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - A tool for calculating the root-mean-square deviation (RMSD) between ligand structures.  
@@ -169,7 +196,6 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/) - A tool designed for predicting molecular properties and activities. 
 - [The Utrecht Biomolecular Interactions software portal](https://wenmr.science.uu.nl/) - This portal provides software tools for studying biomolecular interactions. 
 - [Spaya AI-powered retrosynthesis platform](https://spaya.ai/app/search) - An AI-powered platform for retrosynthetic analysis. It assists chemists in designing synthetic routes for target compounds.
-- [AutoDock Vina web server](https://durrantlab.pitt.edu/webina/) - A web-based interface for molecular docking simulations. It aids in predicting the binding modes of ligands to target proteins. 
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - A tool for building ligand structures and conducting virtual screening. 
 - [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
