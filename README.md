@@ -161,7 +161,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Numpy](https://numpy.org/) - A library for numerical computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays.
 - [Scikit-Learn](https://scikit-learn.org/stable/) - An open-source machine learning library for Python. It offers a simple and efficient toolkit for various machine learning tasks, including classification, regression, clustering, and dimensionality reduction.
 - [Matplotlib](https://matplotlib.org/) - A popular 2D plotting library for Python.
-- [Seaborn](https://seaborn.pydata.org/) - A statistical data visualization library based on Matplotlib. It simplifies the creation of attractive and informative statistical graphics in Python. 
+- [Seaborn](https://seaborn.pydata.org/) - A statistical data visualization library based on Matplotlib. It simplifies the creation of attractive and informative statistical graphics in Python.
+- [MoleculeNet](https://moleculenet.org/) - Offers datasets for benchmarking predictive models of various chemical drug properties.
 
 ## Artificial intelligence for drug discovery
 
