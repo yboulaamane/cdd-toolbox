@@ -161,6 +161,12 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - A tool for building ligand structures and conducting virtual screening. 
 - [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
+- [MayaChemTools](http://www.mayachemtools.org/index.html) - A growing collection of Perl and Python scripts, modules, and classes designed to support diverse daily computational discovery needs. 
+
+
+
+
+
 
 ## Blogs
 
