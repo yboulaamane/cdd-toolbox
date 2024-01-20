@@ -166,6 +166,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Kaggle](https://www.kaggle.com/) - A large ML and AI community. Can be useful for sourcing and sharing datasets and models related to drug discovery.
 - [Hugging Face](https://huggingface.co/) - A new growing AI community similar to Kaggle.
 - [Code Ocean](https://codeocean.com/) - A cloud-based platform designed to facilitate the sharing, collaboration, and reproducibility of research code and data.
+- [Zenodo](https://zenodo.org/) - An open-access repository for research outputs. It is an initiative developed by CERN to provide a platform for researchers to share and preserve various types of scholarly content, including datasets, software, publications, and other research-related materials.
 
 ## Artificial intelligence for drug discovery
 
