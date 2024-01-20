@@ -163,6 +163,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Matplotlib](https://matplotlib.org/) - A popular 2D plotting library for Python.
 - [Seaborn](https://seaborn.pydata.org/) - A statistical data visualization library based on Matplotlib. It simplifies the creation of attractive and informative statistical graphics in Python.
 - [MoleculeNet](https://moleculenet.org/) - Offers datasets for benchmarking predictive models of various chemical drug properties.
+- [Kaggle](https://www.kaggle.com/) - A large ML and AI community. Can be useful for sourcing and sharing datasets and models related to drug discovery.
+- [Hugging Face](https://huggingface.co/) - A new growing AI community similar to Kaggle.  
 
 ## Artificial intelligence for drug discovery
 
