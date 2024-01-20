@@ -167,7 +167,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Hugging Face](https://huggingface.co/) - A new growing AI community similar to Kaggle.
 - [Code Ocean](https://codeocean.com/) - A cloud-based platform designed to facilitate the sharing, collaboration, and reproducibility of research code and data.
 - [Zenodo](https://zenodo.org/) - An open-access repository for research outputs. It is an initiative developed by CERN to provide a platform for researchers to share and preserve various types of scholarly content, including datasets, software, publications, and other research-related materials.
-- [ChemML](https://hachmannlab.github.io/chemml/index.html) - ChemML empowers users to perform various data science tasks and ML workflows, making modern data science accessible in the broader chemistry and materials community.  
+- [ChemML](https://hachmannlab.github.io/chemml/index.html) - ChemML empowers users to perform various data science tasks and ML workflows, making modern data science accessible in the broader chemistry and materials community.
+- [Datagrok]( https://datagrok.ai/cheminformatics) - Datagrok offers robust support for small molecules and popular building blocks in cheminformatics. It understands various chemical notations like SMILES and SMARTS. Users can visualize molecules in 2D or 3D, sketch them, and extract properties.
 
 ## Artificial intelligence for drug discovery
 
