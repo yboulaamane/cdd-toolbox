@@ -12,7 +12,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 5. [Binding Site Detection](#binding-site-detection)
 6. [Pharmacophore Screening Tools](#pharmacophore-screening-tools)
 7. [Molecular docking](#molecular-docking)
-8. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
+8. [ADMET Prediction](#admet-prediction)
 9. [QSAR modeling](#qsar-modeling)
 10. [Quantum chemistry](#quantum-chemistry)
 11. [Molecular dynamics simulations](#molecular-dynamics-simulations)
