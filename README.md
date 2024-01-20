@@ -203,7 +203,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [MolAiCal](https://molaical.github.io/) - Useful for binding free energy calculations.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Provide a collection of cheminformatics and computational chemistry tools.
 - [MayaChemTools](http://www.mayachemtools.org/index.html) - A growing collection of Perl and Python scripts, modules, and classes designed to support diverse daily computational discovery needs.
-- [SCBDD](http://www.scbdd.com/) - An online platform containing a series of software and web servers that can assist in cheminformatics and drug discovery. 
+- [SCBDD](http://www.scbdd.com/) - An online platform containing a series of software and web servers that can assist in cheminformatics and drug discovery.
+- [Click2Drug](https://www.click2drug.org/) - Deployed by the Swiss Institute of Bioinformatics, presents an extensive compilation of CADD software, databases, and web services. This collection categorizes tools based on their application field, aiming to encompass the entire drug design pipeline.
 
 ## Cheminformatics free courses
 
