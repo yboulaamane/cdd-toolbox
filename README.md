@@ -217,7 +217,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 
 - [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) -  A YouTube playlist offering computational chemistry lectures by TMP Chem. It covers various aspects of computational chemistry, providing valuable insights for learners interested in the field.
 - [Strasbourg Summer School in Chemoinformatics, 2022](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - A YouTube playlist featuring lectures from the Strasbourg Summer School in Chemoinformatics. The content covers topics related to cheminformatics.
-- [BIGCHEM](https://bigchem.eu/node/63) - The BIGCHEM project provides free courses on big data in chemistry. It offers online resources and training materials to explore the intersection of big data and chemistry, fostering understanding and skills in cheminformatics.  
+- [BIGCHEM](https://bigchem.eu/node/63) - The BIGCHEM project provides free courses on big data in chemistry. It offers online resources and training materials to explore the intersection of big data and chemistry, fostering understanding and skills in cheminformatics.
+- [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) - A course on Geometric Deep Learing delivered as part of the African Master’s in Machine Intelligence.
 
 ## Blogs
 
