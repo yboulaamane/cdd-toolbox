@@ -15,17 +15,18 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 8. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
 9. [QSAR modeling](#qsar-modeling)
 10. [Quantum chemistry](#quantum-chemistry)
-11. [Topology Preparation](#topology-preparation)
-12. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
-13. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
-14. [Peptide Design Tools](#peptide-design-tools)
-15. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
-16. [Machine learning for drug discovery](#machine-learning-for-drug-discovery)
-17. [Artificial intelligence for drug discovery](#artificial-intelligence-for-drug-discovery)
-18. [Retrosynthesis prediction](#retrosynthesis-prediction)
-19. [Miscellaneous tools](#miscellaneous-tools)
-20. [Cheminformatics Free Courses](#cheminformatics-free-courses)
-21. [Blogs](#blogs)
+11. [Molecular dynamics simulations](#molecular-dynamics-simulations)
+12. [Topology Preparation](#topology-preparation)
+13. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
+14. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
+15. [Peptide Design Tools](#peptide-design-tools)
+16. [PROTAC Database and Ternary Complex Modelling](#protac-database-and-ternary-complex-modelling)
+17. [Machine learning for drug discovery](#machine-learning-for-drug-discovery)
+18. [Artificial intelligence for drug discovery](#artificial-intelligence-for-drug-discovery)
+19. [Retrosynthesis prediction](#retrosynthesis-prediction)
+20. [Miscellaneous tools](#miscellaneous-tools)
+21. [Cheminformatics Free Courses](#cheminformatics-free-courses)
+22. [Blogs](#blogs)
 
 ## Natural Compounds Libraries
 
@@ -131,6 +132,14 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Gaussian](https://gaussian.com/) - A widely used software suite for electronic structure modeling and quantum chemistry calculations.
 - [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal) - A popular computational chemistry software package that is widely used for electronic structure calculations, including Density Functional Theory (DFT) calculations. While it is not open source, it does offer a free version for academic and personal use.
 - [Quantum ESPRESSO](https://www.quantum-espresso.org/) - An integrated suite of Open-Source computer codes for electronic-structure calculations and materials modeling at the nanoscale.
+
+## Molecular dynamics simulations
+
+- [GROMACS](https://www.gromacs.org/) - A versatile package to perform molecular dynamics, scalable and efficient in performing large-scale simulations.
+- [LAMMPS](https://www.lammps.org/) - A classical molecular dynamics simulation code, designed to run efficiently on parallel computers.
+- [NAMD](https://www.ks.uiuc.edu/Research/namd/) - A parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
+- [AMBER](https://ambermd.org/) - A suite of biomolecular simulation programs that includes several force fields for the simulation of proteins, nucleic acids, and carbohydrates.
+- [Desmond](https://www.deshawresearch.com/resources.html) - Developed by Schrödinger at D. E. Shaw Research, Desmond is a high-performance molecular dynamics simulation program with a focus on drug discovery.
 
 ## Topology preparation
 
