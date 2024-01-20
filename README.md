@@ -14,7 +14,8 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 7. [Molecular docking](#molecular-docking)
 8. [Pharmacokinetics Parameters Prediction Tools](#pharmacokinetics-parameters-prediction-tools)
 9. [QSAR modeling](#qsar-modeling)
-10. [Topology Preparation](#topology-preparation)
+10. [Quantum chemistry](#quantum-chemistry)
+11. [Topology Preparation](#topology-preparation)
 12. [Normal Mode Analysis for Predicting Protein Motions](#normal-mode-analysis-for-predicting-protein-motions)
 13. [Virtual Screening Server for Drug Repurposing](#virtual-screening-server-for-drug-repurposing)
 14. [Peptide Design Tools](#peptide-design-tools)
@@ -124,6 +125,12 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [OCHEM](https://ochem.eu/home/show.do) - An online platform offering tools for building QSAR models for predictions of chemical properties.
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - A general cheminformatics software used to handle chemical data, in particular for drug design purposes including QSAR modeling.
 - [3D-QSAR](https://www.3d-qsar.com/) - A compilation of tools available online for 3D-QSAR modeling.
+
+## Quantum chemistry
+
+- [Gaussian](https://gaussian.com/) - A widely used software suite for electronic structure modeling and quantum chemistry calculations.
+- [ORCA](https://orcaforum.kofo.mpg.de/app.php/portal) - A popular computational chemistry software package that is widely used for electronic structure calculations, including Density Functional Theory (DFT) calculations. While it is not open source, it does offer a free version for academic and personal use.
+- [Quantum ESPRESSO](https://www.quantum-espresso.org/) - An integrated suite of Open-Source computer codes for electronic-structure calculations and materials modeling at the nanoscale.
 
 ## Topology preparation
 
