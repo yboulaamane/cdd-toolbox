@@ -105,6 +105,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [Smina](https://github.com/mwojcikowski/smina) - A fork of AutoDock Vina with additional features and optimizations. It focuses on improving scoring and minimization.
 - [Gnina](https://github.com/gnina/gnina) - A fork of Smina with integrated support for scoring and optimizing ligands using convolutional neural networks.
 - [EasyDock](https://github.com/ci-lab-cz/easydock) - A fully automated pipeline for molecular docking based on Vina with a full support of Smina and Gnina.
+- [HADDOCK](https://wenmr.science.uu.nl/haddock2.4/) - A platform used for all types of molecular docking including protein, ligand, peptide, and nucleic acid docking.  
 
 ## Molecular interaction visualization
 
