@@ -237,6 +237,7 @@ Welcome to the CDD-Toolbox repository! This curated collection provides a compre
 - [BIGCHEM](https://bigchem.eu/node/63) - The BIGCHEM project provides free courses on big data in chemistry. It offers online resources and training materials to explore the intersection of big data and chemistry, fostering understanding and skills in cheminformatics.
 - [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) - A course on Geometric Deep Learing delivered as part of the African Master’s in Machine Intelligence.
 - [Drug Discovery Course by StereoElectronics](https://www.stereoelectronics.org/webDD/DD_home.html) - Fundamentals and principles of methods used in the drug discovery pipeline.
+- [drugdesign.org](https://www.drugdesign.org/) - A collection of free courses on drug design, cheminformatics, molecular modeling, property prediction, and QSAR.
 
 ## Blogs
 
