@@ -1,7 +1,6 @@
-# cdd-toolbox
-![image](https://github.com/yboulaamane/cdd-toolbox/assets/7014404/bb1efd1d-50b3-4e14-9e58-156089be738c)
+# ⌬ cdd-toolbox ⌬
 
-Welcome to the CDD-Toolbox repository! This curated collection provides a comprehensive set of resources for Computational Drug Discovery (CDD) and related fields. Whether you are a researcher, student, or professional in the field of computational chemistry, this toolbox aims to serve as a valuable resource.
+Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curated collection provides a comprehensive set of resources for Computational Drug Discovery (CDD) and related fields. Whether you are a researcher, student, or professional in the field of computational chemistry, this toolbox aims to serve as a valuable resource.
 
 ## Table of Contents
 
