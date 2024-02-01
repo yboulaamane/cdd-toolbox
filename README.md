@@ -45,7 +45,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - A database dedicated to compounds from the genus Artemisia.  
 - [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library) - A library of >1k natural product-like compounds designed for high-throughput screening in drug discovery.  
 - [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database providing information on bioactive peptides and proteins with potential therapeutic applications.  
-- [IMPPAT](https://cb.imsc.res.in/imppat/home) - A database focused on immunomodulatory peptides and proteins, supporting research in immunopharmacology.  
+- [IMPPAT](https://cb.imsc.res.in/imppat/home) - A comprehensive database developed through the digitization of data from over 100 traditional Indian medicine books, 7000+ research articles, and other sources. It stands as the most extensive digital repository of phytochemicals found in Indian medicinal plants, surpassing its predecessor IMPPAT 1.0 in scope and depth.
 - [NP-MRD](https://np-mrd.org/natural_products) - A natural product database with a focus on >280k NMR studies. 
 - [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) -  A database providing information on >60k natural compounds.
 - [Phytochemicals](https://www.phytochemicals.info/) - A comprehensive resource offering information on phytochemicals, supporting research in plant chemistry and pharmacology.  
