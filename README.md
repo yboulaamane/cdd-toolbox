@@ -29,31 +29,31 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 
 ## Natural Compounds Libraries
 
-- [COCONUT Natural Products](https://coconut.naturalproducts.net/): A comprehensive database boasting over 400,000 natural products aggregated from more than 50 diverse sources.
-- [LOTUS Natural Products](https://lotus.naturalproducts.net/): Similar to COCONUT, LOTUS focuses on molecular annotations, making it an invaluable resource for sourcing organisms.
-- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/): This repository contains a vast collection of over 200,000 commercially available natural compounds, primarily utilized for virtual screening purposes.
-- [Collective Molecular Activities of Useful Plants](http://bidd.group/CMAUP/): This database emphasizes the molecular activities of beneficial plants, aiding in the exploration of their pharmacological potential.
-- [Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php): NPASS connects 94,000 natural product activities with their respective species sources, facilitating research in natural product discovery.
-- [Cannabis Compound Database](https://cannabisdatabase.ca/): A specialized database housing information on over 6,000 compounds found in cannabis plants, catering to cannabis-related research endeavors.
-- [SuperNatural III](https://bioinf-applied.charite.de/supernatural_3/): Offering insights into natural compounds and their biological activities, SuperNatural III serves as a valuable resource for researchers in various fields.
+- [COCONUT Natural Products](https://coconut.naturalproducts.net/) - A comprehensive database boasting over 400,000 natural products aggregated from more than 50 diverse sources.
+- [LOTUS Natural Products](https://lotus.naturalproducts.net/) - Similar to COCONUT, LOTUS focuses on molecular annotations, making it an invaluable resource for sourcing organisms.
+- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - This repository contains a vast collection of over 200,000 commercially available natural compounds, primarily utilized for virtual screening purposes.
+- [Collective Molecular Activities of Useful Plants](http://bidd.group/CMAUP/) - This database emphasizes the molecular activities of beneficial plants, aiding in the exploration of their pharmacological potential.
+- [Natural Product Activity & Species Source Database (NPASS)](http://bidd.group/NPASS/index.php) - NPASS connects 94,000 natural product activities with their respective species sources, facilitating research in natural product discovery.
+- [Cannabis Compound Database](https://cannabisdatabase.ca/) - A specialized database housing information on over 6,000 compounds found in cannabis plants, catering to cannabis-related research endeavors.
+- [SuperNatural III](https://bioinf-applied.charite.de/supernatural_3/) - Offering insights into natural compounds and their biological activities, SuperNatural III serves as a valuable resource for researchers in various fields.
 - [FooDB](https://foodb.ca/): With a comprehensive compilation of over 70,000 food components, FooDB aids researchers in exploring the chemical composition of diverse foods.
-- [AfroDB](http://african-compounds.org/about/afrodb/): Highlighting more than 4,000 compounds sourced from African medicinal plants, AfroDB significantly contributes to ethnopharmacological studies and drug discovery efforts.
-- [Comprehensive Marine Natural Products Database](https://www.cmnpd.org/): This resource provides extensive information on over 31,000 marine-derived natural products, supporting marine biotechnology and pharmaceutical research.
-- [SistematX Secondary Metabolites Database](https://sistematx.ufpb.br/): Focused on over 8,000 secondary metabolites, SistematX serves as a valuable tool for researchers studying natural product chemistry.
-- [Eximed Natural-Product-Based Library](https://eximedlab.com/Screening-Compounds.html): With more than 5,000 natural product-like compounds tailored for high-throughput screening, this library aids in drug discovery efforts.
-- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/): Specifically targeting approximately 900 naturally occurring coumarin compounds, CoumarinDB is a specialized resource for researchers in this field.
-- [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/): Dedicated to compounds from the genus Artemisia, this database offers valuable insights for researchers interested in this plant group.
-- [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library): Housing over 1,000 natural product-like compounds designed for high-throughput screening, this library is a valuable resource in drug discovery.
-- [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural): Providing information on bioactive peptides and proteins with therapeutic potential, BIAdb supports research in biomedicine and pharmacology.
-- [IMPPAT](https://cb.imsc.res.in/imppat/home): This comprehensive database offers digitized data from over 100 traditional Indian medicine books, 7000+ research articles, and other sources, making it the most extensive repository of phytochemicals found in Indian medicinal plants.
-- [NP-MRD](https://np-mrd.org/natural_products): Focused on over 280,000 NMR studies, NP-MRD provides a detailed exploration of natural products through NMR spectroscopy.
-- [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds): Offering information on over 60,000 natural compounds, IBS Natural Compounds is a valuable resource for researchers in natural product chemistry and drug discovery.
-- [Phytochemicals](https://www.phytochemicals.info/): This comprehensive resource provides extensive information on phytochemicals, supporting research in plant chemistry and pharmacology.
-
+- [AfroDB](http://african-compounds.org/about/afrodb/) - Highlighting more than 4,000 compounds sourced from African medicinal plants, AfroDB significantly contributes to ethnopharmacological studies and drug discovery efforts.
+- [Comprehensive Marine Natural Products Database](https://www.cmnpd.org/) - This resource provides extensive information on over 31,000 marine-derived natural products, supporting marine biotechnology and pharmaceutical research.
+- [SistematX Secondary Metabolites Database](https://sistematx.ufpb.br/) - Focused on over 8,000 secondary metabolites, SistematX serves as a valuable tool for researchers studying natural product chemistry.
+- [Eximed Natural-Product-Based Library](https://eximedlab.com/Screening-Compounds.html) - With more than 5,000 natural product-like compounds tailored for high-throughput screening, this library aids in drug discovery efforts.
+- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - Specifically targeting approximately 900 naturally occurring coumarin compounds, CoumarinDB is a specialized resource for researchers in this field.
+- [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - Dedicated to compounds from the genus Artemisia, this database offers valuable insights for researchers interested in this plant group.
+- [OTAVA Natural Product-Like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library) - Housing over 1,000 natural product-like compounds designed for high-throughput screening, this library is a valuable resource in drug discovery.
+- [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - Providing information on bioactive peptides and proteins with therapeutic potential, BIAdb supports research in biomedicine and pharmacology.
+- [IMPPAT](https://cb.imsc.res.in/imppat/home) - This comprehensive database offers digitized data from over 100 traditional Indian medicine books, 7000+ research articles, and other sources, making it the most extensive repository of phytochemicals found in Indian medicinal plants.
+- [NP-MRD](https://np-mrd.org/natural_products) - Focused on over 280,000 NMR studies, NP-MRD provides a detailed exploration of natural products through NMR spectroscopy.
+- [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - Offering information on over 60,000 natural compounds, IBS Natural Compounds is a valuable resource for researchers in natural product chemistry and drug discovery.
+- [Phytochemicals](https://www.phytochemicals.info/) - This comprehensive resource provides extensive information on phytochemicals, supporting research in plant chemistry and pharmacology.
+- [NPACT Database](https://webs.iiitd.edu.in/raghava/npact/index.html) - A database of naturally occurring plant-based anticancer compounds, their activities, and their targets.
 
 ## Chemical bioactivity databases  
 
-- [ChEMBL database](https://www.ebi.ac.uk/chembl/) -  A large-scale bioactivity database that focuses on bioactive molecules and their targets. It contains information on the binding, functional, and ADMET  properties of drugs.  
+- [ChEMBL database](https://www.ebi.ac.uk/chembl/) - A large-scale bioactivity database that focuses on bioactive molecules and their targets. It contains information on the binding, functional, and ADMET  properties of drugs.  
 - [BindingDB](https://www.bindingdb.org/) - A comprehensive database that provides information on the binding affinities of drugs to their target biomolecules.   
 - [PubChem database](https://pubchem.ncbi.nlm.nih.gov/) - Offers information on the biological activities of small molecules, including chemical structures, properties, and bioassay data.   
 - [PDBbind database](http://www.pdbbind.org.cn/index.php) - A database focusing on the experimentally measured binding affinities of biomolecular complexes. It includes data on protein-ligand complexes derived from the PDB, providing insights into the structures and energetics of protein-ligand interactions.
