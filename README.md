@@ -229,7 +229,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [SCBDD](http://www.scbdd.com/) - An online platform containing a series of software and web servers that can assist in cheminformatics and drug discovery.
 - [Click2Drug](https://www.click2drug.org/) - Deployed by the Swiss Institute of Bioinformatics, presents an extensive compilation of CADD software, databases, and web services. This collection categorizes tools based on their application field, aiming to encompass the entire drug design pipeline.
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - A Galaxy instance focused on Cheminformatics.
-
+- [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - An open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design.
+- [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - A Repository of Tools for Biomolecular Modeling and Design.
 ## Cheminformatics free courses
 
 - [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) -  A YouTube playlist offering computational chemistry lectures by TMP Chem. It covers various aspects of computational chemistry, providing valuable insights for learners interested in the field.
