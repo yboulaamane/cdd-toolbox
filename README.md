@@ -50,6 +50,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - Offering information on over 60,000 natural compounds, IBS Natural Compounds is a valuable resource for researchers in natural product chemistry and drug discovery.
 - [Phytochemicals](https://www.phytochemicals.info/) - This comprehensive resource provides extensive information on phytochemicals, supporting research in plant chemistry and pharmacology.
 - [NPACT Database](https://webs.iiitd.edu.in/raghava/npact/index.html) - A database of naturally occurring plant-based anticancer compounds, their activities, and their targets.
+- [NaturAr](https://naturar.quimica.unlp.edu.ar/en/) - A natural products database dedicated to the cataloging of the rich biodiversity of Argentina.
 
 ## Chemical bioactivity databases  
 
