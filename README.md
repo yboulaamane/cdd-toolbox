@@ -240,6 +240,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) - A course on Geometric Deep Learing delivered as part of the African Master’s in Machine Intelligence.
 - [Drug Discovery Course by StereoElectronics](https://www.stereoelectronics.org/webDD/DD_home.html) - Fundamentals and principles of methods used in the drug discovery pipeline.
 - [drugdesign.org](https://www.drugdesign.org/) - A collection of free courses on drug design, cheminformatics, molecular modeling, property prediction, and QSAR.
+- [PlayMolecule](https://open.playmolecule.org/landing) -  It focuses on drug discovery and molecular modeling, allowing users to simulate and visualize molecular interactions and properties efficiently.  
 
 ## Blogs
 
