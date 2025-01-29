@@ -64,7 +64,9 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [ZINC](https://zinc.docking.org/) - A platform for researchers to explore and obtain compounds for various computational and experimental studies.  
 - [ChemSpider](http://www.chemspider.com/) - A free chemical database offering information on chemical structures, properties, and associated data.
 - [DrugSpaceX](https://drugspacex.simm.ac.cn/) - A database designed to explore chemical and biological spaces related to drug discovery.
-- [Therapeutics Data Commons](https://tdcommons.ai/) - An AI foundation for therapeutic science, offering an intuitive interface for various learning tasks in the drug discovery field. 
+- [Therapeutics Data Commons](https://tdcommons.ai/) - An AI foundation for therapeutic science, offering an intuitive interface for various learning tasks in the drug discovery field.  
+- [Otava Chemicals](https://www.otavachemicals.com/) - A supplier of screening compounds, building blocks, and custom synthesis services for drug discovery and chemical research.  
+- [Vitas-M Laboratory](https://vitasmlab.biz/) - A provider of diverse chemical libraries, including natural product derivatives and proprietary compounds, for high-throughput screening and lead discovery.  
 
 ## 3D protein structures databases  
 
