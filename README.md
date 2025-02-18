@@ -205,6 +205,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - A tool based on Monte Carlo tree search, designed for retrosynthetic planning in organic chemistry. It aids chemists in generating synthetic routes by exploring reaction databases and proposing viable retrosynthetic steps.
 - [ASKCOS](https://askcos.mit.edu/) -  An AI-driven platform developed for computer-assisted organic synthesis planning. Utilizing machine learning algorithms, ASKCOS assists chemists in predicting viable reaction pathways and proposing synthetic routes for target molecules.
 - [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - An AI-driven platform for automated reaction prediction and planning. Using advanced machine learning models, it enables researchers to predict the outcomes of chemical reactions and design synthetic routes for desired products.
+- [MANIFOLD](https://app.postera.ai/manifold/) - Offers tools for synthesis planning, compound search, enabling rapid identification and production of high-quality, synthetically accessible compounds.  
 
 
 ## Miscellaneous tools
