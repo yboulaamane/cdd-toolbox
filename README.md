@@ -120,12 +120,15 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 
 - [SwissADME](http://www.swissadme.ch/) - A web tool for predicting pharmacokinetic parameters and drug-like properties. It assists researchers in assessing the drug-likeness and pharmacokinetic profile of small molecules. Supports multiple instances.
 - [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/) - A platform offering predictions for various physicochemical, pharmacokinetic and toxicity properties with the theory behind each prediction. Suitable for ADMET screening.
+- [DeepPK](https://biosig.lab.uq.edu.au/deeppk/) - A deep learning-based platform for predicting pharmacokinetics, focusing on drug absorption and metabolism.  
+- [admetSAR 2.0](https://lmmd.ecust.edu.cn/admetsar2/) - An updated version of admetSAR, providing comprehensive ADMET predictions with a user-friendly interface.  
 - [ADMETlab 2.0](https://admetmesh.scbdd.com/) - A comprehensive tool for predicting absorption, distribution, metabolism, excretion, and toxicity properties of chemical compounds.
 - [ProTox-II](https://tox-new.charite.de/protox_II/) - A predictive tool for assessing the toxicity endpoints of drugs.  
 - [PreADMET](https://preadmet.webservice.bmdrc.org/) - A web service providing predictions for pharmacokinetic properties. Does not support multiple instances.
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) - A program designed to filter extensive compound libraries based on ADMET properties before in silico screening or modeling studies.
 
 ## QSAR modeling
+
 - [QSAR Toolbox](https://qsartoolbox.org/) - The Toolbox is a free software for transparent chemical hazard assessment, offering tools for data retrieval, metabolism simulation, and property profiling. It aids in identifying analogues and chemical categories for read-across and trend analysis, filling data gaps.
 - [OCHEM](https://ochem.eu/home/show.do) - An online platform offering tools for building QSAR models for predictions of chemical properties.
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - A general cheminformatics software used to handle chemical data, in particular for drug design purposes including QSAR modeling.
