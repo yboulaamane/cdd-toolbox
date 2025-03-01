@@ -116,7 +116,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - A Java-based program that automatically generates  2D ligand-protein interaction diagrams.  
 - [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - A powerful molecular visualization tool that allows users to explore and analyze complex biological and chemical information. It provides an intuitive interface for visualizing molecular structures, protein-ligand interactions, and conducting various analyses.  
 
-## Pharmacokinetics parameters prediction tools 
+## ADMET Prediction
 
 - [SwissADME](http://www.swissadme.ch/) - A web tool for predicting pharmacokinetic parameters and drug-like properties. It assists researchers in assessing the drug-likeness and pharmacokinetic profile of small molecules. Supports multiple instances.
 - [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/) - A platform offering predictions for various physicochemical, pharmacokinetic and toxicity properties with the theory behind each prediction. Suitable for ADMET screening.
