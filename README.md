@@ -54,7 +54,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 
 ## Chemical bioactivity databases  
 
-- [ChEMBL database](https://www.ebi.ac.uk/chembl/) - A large-scale bioactivity database that focuses on bioactive molecules and their targets. It contains information on the binding, functional, and ADMET  properties of drugs.  
+- [ChEMBL database](https://www.ebi.ac.uk/chembl/) - A large-scale bioactivity database that focuses on bioactive molecules and their targets. It contains information on the binding, functional, and ADMET  properties of drugs.
+- [SureChEMBL](https://www.surechembl.org/) - A patent chemistry database that allows searching for bioactive compounds and chemical structures extracted from patent literature.  
 - [BindingDB](https://www.bindingdb.org/) - A comprehensive database that provides information on the binding affinities of drugs to their target biomolecules.   
 - [PubChem database](https://pubchem.ncbi.nlm.nih.gov/) - Offers information on the biological activities of small molecules, including chemical structures, properties, and bioassay data.   
 - [PDBbind database](http://www.pdbbind.org.cn/index.php) - A database focusing on the experimentally measured binding affinities of biomolecular complexes. It includes data on protein-ligand complexes derived from the PDB, providing insights into the structures and energetics of protein-ligand interactions.
