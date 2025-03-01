@@ -256,6 +256,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Chem-Workflows](https://chem-workflows.com/index.html) - A collection of Jupyter Notebook-based tutorials written by Dr. Angel J. Ruiz Moreno for chemical data exploration and visualization.
 - [Structural Bioinformatics](https://proteinstructures.com/) - A guide to structural biology and structure-based drug design.
 - [Bioinformatics Answers](https://www.biostars.org/) - An online platform designed for bioinformatics researchers, computational biologists, and individuals involved in life sciences. It serves as a community-driven question and answer platform, where users can seek help, share knowledge, and engage in discussions related to bioinformatics and computational biology.
-- [McConnellsMedChem](https://mcconnellsmedchem.com/) - A Medicinal chemistry blog serving as a resource for professionals, researchers, or students involved in the field of medicinal chemistry.
-- [DrugDiscovery.NET](http://www.drugdiscovery.net/) - A blog about AI and machine learning in drug discovery.
+- [McConnellsMedChem](https://mcconnellsmedchem.com/) - A Medicinal chemistry blog serving as a resource for professionals, researchers, or students involved in the field of medicinal chemistry.  
+- [DrugDiscovery.NET](http://www.drugdiscovery.net/) - A blog about AI and machine learning in drug discovery.  
+- [MacinChem](https://macinchem.org/) - A blog covering computational chemistry, cheminformatics, and molecular modeling on macOS.  
 
