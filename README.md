@@ -109,7 +109,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Smina](https://github.com/mwojcikowski/smina) - A fork of AutoDock Vina with additional features and optimizations. It focuses on improving scoring and minimization.
 - [Gnina](https://github.com/gnina/gnina) - A fork of Smina with integrated support for scoring and optimizing ligands using convolutional neural networks.
 - [EasyDock](https://github.com/ci-lab-cz/easydock) - A fully automated pipeline for molecular docking based on Vina with a full support of Smina and Gnina.
-- [HADDOCK](https://wenmr.science.uu.nl/haddock2.4/) - A platform used for all types of molecular docking including protein, ligand, peptide, and nucleic acid docking.  
+- [HADDOCK](https://wenmr.science.uu.nl/haddock2.4/) - A platform used for all types of molecular docking including protein, ligand, peptide, and nucleic acid docking.
+- [PandaDock](https://github.com/pritampanda15/PandaDock) - A Python-based molecular docking tool for bioinformatics and drug design, offering features like flexible residue docking and GPU acceleration. It supports various scoring functions and search algorithms for efficient simulations.  
 
 ## Molecular interaction visualization
 
