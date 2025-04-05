@@ -26,6 +26,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 20. [Miscellaneous tools](#miscellaneous-tools)
 21. [Cheminformatics Free Courses](#cheminformatics-free-courses)
 22. [Blogs](#blogs)
+23. [Cheminformatics Instructional Notebooks](#cheminformatics-instructional-notebooks)
 
 ## Natural Compounds Libraries
 
@@ -212,7 +213,6 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - An AI-driven platform for automated reaction prediction and planning. Using advanced machine learning models, it enables researchers to predict the outcomes of chemical reactions and design synthetic routes for desired products.
 - [MANIFOLD](https://app.postera.ai/manifold/) - Offers tools for synthesis planning, compound search, enabling rapid identification and production of high-quality, synthetically accessible compounds.  
 
-
 ## Miscellaneous tools
 
 - [OPSIN: Open Parser for Systematic IUPAC nomenclature](https://opsin.ch.cam.ac.uk) - Useful for converting chemical names into structured representations.
@@ -240,6 +240,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - A Galaxy instance focused on Cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - An open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - A Repository of Tools for Biomolecular Modeling and Design.
+  
 ## Cheminformatics free courses
 
 - [Computational chemistry lectures by TMP Chem](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) -  A YouTube playlist offering computational chemistry lectures by TMP Chem. It covers various aspects of computational chemistry, providing valuable insights for learners interested in the field.
@@ -263,5 +264,12 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Bioinformatics Answers](https://www.biostars.org/) - An online platform designed for bioinformatics researchers, computational biologists, and individuals involved in life sciences. It serves as a community-driven question and answer platform, where users can seek help, share knowledge, and engage in discussions related to bioinformatics and computational biology.
 - [McConnellsMedChem](https://mcconnellsmedchem.com/) - A Medicinal chemistry blog serving as a resource for professionals, researchers, or students involved in the field of medicinal chemistry.  
 - [DrugDiscovery.NET](http://www.drugdiscovery.net/) - A blog about AI and machine learning in drug discovery.  
-- [MacinChem](https://macinchem.org/) - A blog covering computational chemistry, cheminformatics, and molecular modeling on macOS.  
+- [MacinChem](https://macinchem.org/) - A blog covering computational chemistry, cheminformatics, and molecular modeling on macOS.
+- [Jeremy Monat, PhD](https://bertiewooster.github.io/) - ​Jeremy Monat's personal site showcasing his work in cheminformatics and scientific software development.
+- [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - ​Angelo Raymond Rossi's personal site highlighting his work as a Research Professor in Chemistry at the University of Connecticut, focusing on high-performance computing and computational chemistry.
+
+## Cheminformatics Instructional Notebooks
+
+- [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - A comprehensive list of interactive Jupyter Notebook tutorials, called "talktorials," covering various topics in computer-aided drug design (CADD).
+- [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - A beginner-friendly GitHub repository introducing AI methods in pharmaceutical research. Covers cheminformatics, deep learning, and molecular property prediction with hands-on Jupyter notebooks.  
 
