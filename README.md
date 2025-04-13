@@ -52,6 +52,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Phytochemicals](https://www.phytochemicals.info/) - This comprehensive resource provides extensive information on phytochemicals, supporting research in plant chemistry and pharmacology.
 - [NPACT Database](https://webs.iiitd.edu.in/raghava/npact/index.html) - A database of naturally occurring plant-based anticancer compounds, their activities, and their targets.
 - [NaturAr](https://naturar.quimica.unlp.edu.ar/en/) - A natural products database dedicated to the cataloging of the rich biodiversity of Argentina.
+- [DiaNat-DB](http://rdu.iquimica.unam.mx/handle/20.500.12214/1186) - A molecular database of 795 antidiabetic compounds from medicinal plants.  
 
 ## Chemical bioactivity databases  
 
@@ -90,7 +91,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [PrankWeb](https://prankweb.cz/) - A web-based platform specializing in the prediction and analysis of protein binding sites.   
 - [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g) - A resource for the detection and characterization of protein binding sites. It offers insights into the volume and area of cavities on protein surfaces, contributing to the study of ligand binding and functional sites.  
 - [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - A web server designed for the identification and analysis of protein cavities and binding sites. It provides tools for the characterization of binding pockets, assisting researchers in studying protein-ligand interactions and structure-based drug design.
-- [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/) - A tool for identifying tunnels and channels in protein structures. It supports the analysis of ligand transport pathways.
+- [CaverWeb: Identification of Tunnels and Channels in Proteins and Analysis of Ligand Transport](https://loschmidt.chemi.muni.cz/caverweb/) - A tool for identifying tunnels and channels in protein structures. It supports the analysis of ligand transport pathways.  
+- [PASSer: Protein Allosteric Sites Server](https://passer.smu.edu/) - ​PASSer is a web tool that uses machine learning to quickly predict allosteric sites in proteins, aiding in drug discovery. ​  
 
 
 ## Pharmacophore screening tools  
@@ -129,6 +131,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [ProTox-II](https://tox-new.charite.de/protox_II/) - A predictive tool for assessing the toxicity endpoints of drugs.  
 - [PreADMET](https://preadmet.webservice.bmdrc.org/) - A web service providing predictions for pharmacokinetic properties. Does not support multiple instances.
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) - A program designed to filter extensive compound libraries based on ADMET properties before in silico screening or modeling studies.
+- [Admetboost](https://ai-druglab.smu.edu/admet) - ​ADMETboost is a free online tool developed by the Tao Research Group at Southern Methodist University. It uses machine learning (XGBoost) to predict 22 ADMET properties of small molecules.   
 
 ## QSAR modeling
 
