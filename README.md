@@ -113,7 +113,10 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Gnina](https://github.com/gnina/gnina) - A fork of Smina with integrated support for scoring and optimizing ligands using convolutional neural networks.
 - [EasyDock](https://github.com/ci-lab-cz/easydock) - A fully automated pipeline for molecular docking based on Vina with a full support of Smina and Gnina.
 - [HADDOCK](https://wenmr.science.uu.nl/haddock2.4/) - A platform used for all types of molecular docking including protein, ligand, peptide, and nucleic acid docking.
-- [PandaDock](https://github.com/pritampanda15/PandaDock) - A Python-based molecular docking tool for bioinformatics and drug design, offering features like flexible residue docking and GPU acceleration. It supports various scoring functions and search algorithms for efficient simulations.  
+- [PandaDock](https://github.com/pritampanda15/PandaDock) - A Python-based molecular docking tool for bioinformatics and drug design, offering features like flexible residue docking and GPU acceleration. It supports various scoring functions and search algorithms for efficient simulations.
+- [ZDOCK](https://zdock.wenglab.org/) - A web server that predicts protein–protein complex structures using a rigid-body docking algorithm.
+- [ClusPro 2.0](https://cluspro.org/) - A web-based tool for protein–protein docking. It performs rigid-body docking by sampling billions of conformations and clusters the results to identify the most probable complex structures.
+- [pyDockWEB](https://life.bsc.es/pid/pydockweb/) - A free web server for predicting protein–protein complex structures using rigid-body docking and scoring based on electrostatics and desolvation energy.  
 
 ## Molecular interaction visualization
 
