@@ -52,7 +52,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Phytochemicals](https://www.phytochemicals.info/) - This comprehensive resource provides extensive information on phytochemicals, supporting research in plant chemistry and pharmacology.
 - [NPACT Database](https://webs.iiitd.edu.in/raghava/npact/index.html) - A database of naturally occurring plant-based anticancer compounds, their activities, and their targets.
 - [NaturAr](https://naturar.quimica.unlp.edu.ar/en/) - A natural products database dedicated to the cataloging of the rich biodiversity of Argentina.
-- [DiaNat-DB](http://rdu.iquimica.unam.mx/handle/20.500.12214/1186) - A molecular database of 795 antidiabetic compounds from medicinal plants.  
+- [DiaNat-DB](http://rdu.iquimica.unam.mx/handle/20.500.12214/1186) - A molecular database of 795 antidiabetic compounds from medicinal plants.
+- [PhytoHub](https://phytohub.eu/) - A freely available electronic database containing detailed information about 1200 dietary phytochemicals and their human and animal metabolites.
 
 ## Chemical bioactivity databases  
 
