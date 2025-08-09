@@ -55,6 +55,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [DiaNat-DB](http://rdu.iquimica.unam.mx/handle/20.500.12214/1186) - A molecular database of 795 antidiabetic compounds from medicinal plants.
 - [PhytoHub](https://phytohub.eu/) - A freely available electronic database containing detailed information about 1200 dietary phytochemicals and their human and animal metabolites.  
 - [Dr. Duke's Phytochemical and Ethnobotanical databases](https://phytochem.nal.usda.gov/) - It provides searchable access to plant-based compounds, bioactivities, and traditional uses. Ideal for pharma, nutrition, herbal, and biomedical research. Results can be downloaded as PDFs or spreadsheets.
+- [CyanoMetDB](https://zenodo.org/records/13854577) - A comprehensive database of more than 2,000 secondary metabolites from cyanobacteria manually curated from various sources from the literature.  
+
 
 ## Chemical bioactivity databases  
 
