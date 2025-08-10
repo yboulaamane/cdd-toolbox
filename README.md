@@ -126,9 +126,10 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [pyDockWEB](https://life.bsc.es/pid/pydockweb/) - A free web server for predicting protein–protein complex structures using rigid-body docking and scoring based on electrostatics and desolvation energy.
 - [SwissDock](https://www.swissdock.ch/) - A molecular docking web tool now powered by Attracting Cavities and AutoDock Vina engines, useful for training new students.
 - [MzDOCK](https://github.com/Muzatheking12/MzDOCK) - A free, automated graphical user interface (GUI) pipeline for molecular docking simulations.
-- [Uni-Mol Docking V2](https://www.bohrium.com/apps/unimoldockingv2/job?type=app) - A molecular docking application hosted on Bohrium, a diverse suite of AI-powered applications tailored for scientific research, especially in biomedicine, materials science, and computational chemistry.  
+- [Uni-Mol Docking V2](https://www.bohrium.com/apps/unimoldockingv2/job?type=app) - A molecular docking application hosted on Bohrium, a diverse suite of AI-powered applications tailored for scientific research, especially in biomedicine, materials science, and computational chemistry.
+- [Vina on Colab](https://autodock-vina.readthedocs.io/en/latest/colab_examples.html) - A Google Colab experience for running AutoDock Vina workflows without requiring local setup.  
 
-## Molecular interaction visualization
+## Molecular interaction visualization 
 
 - [PLIP - Protein ligand interaction profiler](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - A tool for profiling interactions between proteins and ligands. It helps analyze and visualize protein-ligand interactions, providing insights into molecular binding mechanisms.  
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - A Java-based program that automatically generates  2D ligand-protein interaction diagrams.  
