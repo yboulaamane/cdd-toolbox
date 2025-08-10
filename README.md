@@ -215,6 +215,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Zenodo](https://zenodo.org/) - An open-access repository for research outputs. It is an initiative developed by CERN to provide a platform for researchers to share and preserve various types of scholarly content, including datasets, software, publications, and other research-related materials.
 - [ChemML](https://hachmannlab.github.io/chemml/index.html) - ChemML empowers users to perform various data science tasks and ML workflows, making modern data science accessible in the broader chemistry and materials community.
 - [Datagrok]( https://datagrok.ai/cheminformatics) - Datagrok offers robust support for small molecules and popular building blocks in cheminformatics. It understands various chemical notations like SMILES and SMARTS. Users can visualize molecules in 2D or 3D, sketch them, and extract properties.
+- [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/) - A websute that aims to make machine learning concepts more accessible through visual explanations.  
 
 ## Artificial intelligence for drug discovery
 
