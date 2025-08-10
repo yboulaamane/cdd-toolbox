@@ -225,6 +225,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [TorchDrug](https://torchdrug.ai/) - A cheminformatics toolkit based on PyTorch. It provides functionalities for molecular property prediction, compound screening, and deep learning-based analyses.  
 - [DEEPScreen](https://github.com/cansyl/DEEPScreen) - A Python-based tool for virtual screening studies with deep convolutional neural networks using compound images.  
 - [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) - A Python-based platform deployed by the MolecularAI group at AstraZeneca, for molecular design based on graph generation models. It employs graph neural networks to generate molecular graphs with desired properties.
+- [dmol.pub](https://dmol.pub/) - This book teaches students how to build and apply neural networks using Python frameworks like Jax and Keras for real-world scientific problems.  
 
 ## Retrosynthesis prediction
 
