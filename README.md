@@ -174,7 +174,8 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [CGenFF](https://cgenff.umaryland.edu/) - Provides a force field parameterization platform for small organic molecules within the CHARMM force field. It assists researchers in preparing molecular topologies for use in molecular dynamics simulations.
 - [SwissParam](https://www.swissparam.ch/) - A tool for generating force field parameters for small molecules. 
 - [Automated Topology Builder](https://atb.uq.edu.au/) - A web-based tool for generating molecular topologies and force field parameters.
-- [CHARMM-GUI](https://www.charmm-gui.org/) - A user-friendly interface for CHARMM, providing tools for the generation of molecular topologies and input files for simulations.
+- [CHARMM-GUI](https://www.charmm-gui.org/) - A user-friendly interface for CHARMM, providing tools for the generation of molecular topologies and input files for simulations.  
+- [LigParGen](https://zarbi.chem.yale.edu/ligpargen/) - A web-based service that provides force field (FF) parameters for organic molecules or ligands, offered by the Jorgensen group.
 
 ## Normal mode analysis for predicting protein motions
 
