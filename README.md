@@ -153,6 +153,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [OCHEM](https://ochem.eu/home/show.do) - An online platform offering tools for building QSAR models for predictions of chemical properties.
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - A general cheminformatics software used to handle chemical data, in particular for drug design purposes including QSAR modeling.
 - [3D-QSAR](https://www.3d-qsar.com/) - A compilation of tools available online for 3D-QSAR modeling.
+- [QSAR-Co](https://sites.google.com/view/qsar-co/) - An open-source tool for building robust classification-based QSAR models under varied experimental conditions. It supports multitarget modeling and includes modules for model development and chemical screening.
 
 ## Quantum chemistry
 
