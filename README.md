@@ -257,6 +257,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - A Galaxy instance focused on Cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - An open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - A Repository of Tools for Biomolecular Modeling and Design.
+- - [PlayMolecule](https://open.playmolecule.org/landing) -  It focuses on drug discovery and molecular modeling, allowing users to simulate and visualize molecular interactions and properties efficiently.  
   
 ## Cheminformatics free courses
 
@@ -266,7 +267,9 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) - A course on Geometric Deep Learing delivered as part of the African Master’s in Machine Intelligence.
 - [Drug Discovery Course by StereoElectronics](https://www.stereoelectronics.org/webDD/DD_home.html) - Fundamentals and principles of methods used in the drug discovery pipeline.
 - [drugdesign.org](https://www.drugdesign.org/) - A collection of free courses on drug design, cheminformatics, molecular modeling, property prediction, and QSAR.
-- [PlayMolecule](https://open.playmolecule.org/landing) -  It focuses on drug discovery and molecular modeling, allowing users to simulate and visualize molecular interactions and properties efficiently.  
+- [Fall 2019 Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics) - A cheminformatics course blending theory with hands-on assignments in Python, R, and Mathematica to explore molecular modeling, databases, and machine learning.
+- [Python For Cheminformatics-Driven Molecular Docking](https://pdb101.rcsb.org/train/training-events/python4) - This course teaches Python-based cheminformatics techniques to analyze and dock small molecules targeting SARS-CoV2 protease.  
+- [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - A workshop series led by Dr. James Webster on computational generative drug design for small molecules.  
 
 ## Blogs
 
