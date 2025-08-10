@@ -168,6 +168,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [NAMD](https://www.ks.uiuc.edu/Research/namd/) - A parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
 - [AMBER](https://ambermd.org/) - A suite of biomolecular simulation programs that includes several force fields for the simulation of proteins, nucleic acids, and carbohydrates.
 - [Desmond](https://www.deshawresearch.com/resources.html) - Developed by Schrödinger at D. E. Shaw Research, Desmond is a high-performance molecular dynamics simulation program with a focus on drug discovery.
+- [MD DaVis](https://md-davis.readthedocs.io/en/latest/index.html) - A Python 3 package designed to create interactive visualizations for analyzing and comparing multiple MD simulations of proteins.  
 
 ## Topology preparation
 
