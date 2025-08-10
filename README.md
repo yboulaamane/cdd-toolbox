@@ -57,6 +57,7 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Dr. Duke's Phytochemical and Ethnobotanical databases](https://phytochem.nal.usda.gov/) - It provides searchable access to plant-based compounds, bioactivities, and traditional uses. Ideal for pharma, nutrition, herbal, and biomedical research. Results can be downloaded as PDFs or spreadsheets.
 - [CyanoMetDB](https://zenodo.org/records/13854577) - A comprehensive database of more than 2,000 secondary metabolites from cyanobacteria manually curated from various sources from the literature.
 - [Seaweed Metabolite Database](https://www.swmd.co.in/) - A free, open-access resource that collects info on natural compounds found in marine algae.  
+- [Arabidopsis.org](https://www.arabidopsis.org/) - A collective database of genetic and molecular biology data for Arabidopsis thaliana, a widely used model plant.  
 
 
 ## Chemical bioactivity databases  
