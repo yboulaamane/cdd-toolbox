@@ -123,7 +123,10 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [PandaDock](https://github.com/pritampanda15/PandaDock) - A Python-based molecular docking tool for bioinformatics and drug design, offering features like flexible residue docking and GPU acceleration. It supports various scoring functions and search algorithms for efficient simulations.
 - [ZDOCK](https://zdock.wenglab.org/) - A web server that predicts protein–protein complex structures using a rigid-body docking algorithm.
 - [ClusPro 2.0](https://cluspro.org/) - A web-based tool for protein–protein docking. It performs rigid-body docking by sampling billions of conformations and clusters the results to identify the most probable complex structures.
-- [pyDockWEB](https://life.bsc.es/pid/pydockweb/) - A free web server for predicting protein–protein complex structures using rigid-body docking and scoring based on electrostatics and desolvation energy.  
+- [pyDockWEB](https://life.bsc.es/pid/pydockweb/) - A free web server for predicting protein–protein complex structures using rigid-body docking and scoring based on electrostatics and desolvation energy.
+- [SwissDock](https://www.swissdock.ch/) - A molecular docking web tool now powered by Attracting Cavities and AutoDock Vina engines, useful for training new students.
+- [MzDOCK](https://github.com/Muzatheking12/MzDOCK) - A free, automated graphical user interface (GUI) pipeline for molecular docking simulations.
+- [Uni-Mol Docking V2](https://www.bohrium.com/apps/unimoldockingv2/job?type=app) - A molecular docking application hosted on Bohrium, a diverse suite of AI-powered applications tailored for scientific research, especially in biomedicine, materials science, and computational chemistry.  
 
 ## Molecular interaction visualization
 
@@ -284,5 +287,6 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 ## Cheminformatics Instructional Notebooks
 
 - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - A comprehensive list of interactive Jupyter Notebook tutorials, called "talktorials," covering various topics in computer-aided drug design (CADD).
-- [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - A beginner-friendly GitHub repository introducing AI methods in pharmaceutical research. Covers cheminformatics, deep learning, and molecular property prediction with hands-on Jupyter notebooks.  
+- [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - A beginner-friendly GitHub repository introducing AI methods in pharmaceutical research. Covers cheminformatics, deep learning, and molecular property prediction with hands-on Jupyter notebooks.
+- [Introduction to artificial intelligence and deep learning using interactive electronic programming notebooks](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - This study introduces a set of free, interactive Jupyter Notebooks designed to teach artificial intelligence and deep learning to life science students with no prior coding experience.  
 
