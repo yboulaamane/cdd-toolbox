@@ -258,7 +258,9 @@ Welcome to the ***Computational Drug Discovery Toolbox*** repository! This curat
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - A Galaxy instance focused on Cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - An open-source repository dedicated to sharing resources, tools, and knowledge in the field of computer-aided drug design.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - A Repository of Tools for Biomolecular Modeling and Design.
-- - [PlayMolecule](https://open.playmolecule.org/landing) -  It focuses on drug discovery and molecular modeling, allowing users to simulate and visualize molecular interactions and properties efficiently.  
+- [PlayMolecule](https://open.playmolecule.org/landing) -  It focuses on drug discovery and molecular modeling, allowing users to simulate and visualize molecular interactions and properties efficiently.  
+- [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - An interactive tool for comparing up to four lists using Venn diagrams.   
+  
   
 ## Cheminformatics free courses
 
