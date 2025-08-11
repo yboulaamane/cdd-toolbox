@@ -81,8 +81,8 @@
 - [PDBbind](http://www.pdbbind.org.cn/index.php) – Protein–ligand affinity data.  
 - [BRENDA](https://www.brenda-enzymes.org/) – Enzyme properties & functions.  
 - [ExCAPE-DB](https://solr.ideaconsult.net/search/excape/) – Chemogenomics DB.  
-- [Therapeutics Data Commons](https://tdcommons.ai/) – AI datasets for therapeutics.  
-
+- [Therapeutics Data Commons](https://tdcommons.ai/) – AI datasets for therapeutics.
+- [Therapeutic Target Database (TTD)](https://idrblab.net/ttd/) – Drug targets with linked diseases and compounds.
 
 ---
 
