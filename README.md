@@ -141,10 +141,10 @@
 ### 3.4 Fragment-Based Drug Design
 
 - [SwissSidechain](https://www.swisssidechain.ch/) – Fragment and linker library for small molecule design.  
-- [ZINC Fragments](https://zinc15.docking.org/substances/subsets/fragments/) – Commercially available fragments for FBDD.  
 - [FragBuilder](https://github.com/andersx/fragbuilder) – Python API for building peptide-like and small molecule fragments.  
-- [SeeSAR](https://www.biosolveit.de/SeeSAR/) – Fragment growing and linking software (free academic version).  
-
+- [SeeSAR](https://www.biosolveit.de/SeeSAR/) – Fragment growing and linking software (free academic version).
+- [Enamine Fragment Libraries](https://enamine.net/compound-libraries/fragment-libraries) – Large curated collection of diverse fragments for FBDD.
+  
 ---
 
 ## 4. Virtual Screening & Docking
