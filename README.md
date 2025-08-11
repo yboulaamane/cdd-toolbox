@@ -29,6 +29,11 @@
    - [8.1 PROTACs & Ternary Complexes](#81-protacs--ternary-complexes)  
    - [8.2 Peptide Design](#82-peptide-design)  
 9. [Machine Learning & AI for Drug Discovery](#9-machine-learning--ai-for-drug-discovery)  
+   - [9.1 Core Libraries](#91-core-libraries)  
+   - [9.2 ML & Deep Learning Frameworks](#92-ml--deep-learning-frameworks)  
+   - [9.3 Chemistry-focused ML Frameworks](#93-chemistry-focused-ml-frameworks)  
+   - [9.4 Pretrained Models & Repositories](#94-pretrained-models--repositories)  
+   - [9.5 Platforms & AutoML](#95-platforms--automl)  
 10. [Utility & Workflow Tools](#10-utility--workflow-tools)  
 11. [Learning Resources](#11-learning-resources)  
     - [11.1 Free Courses](#111-free-courses)  
@@ -221,9 +226,43 @@
 ---
 
 ## 9. Machine Learning & AI for Drug Discovery
-- **Core Libraries**: [RDKit](https://www.rdkit.org/), [Pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/).
-- **Deep Learning**: [Keras](https://keras.io/), [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), [DeepChem](https://deepchem.io/), [TorchDrug](https://torchdrug.ai/), [DEEPScreen](https://github.com/cansyl/DEEPScreen), [GraphINVENT](https://github.com/MolecularAI/GraphINVENT).
-- **Datasets & Platforms**: [MoleculeNet](https://moleculenet.org/), [Kaggle](https://www.kaggle.com/), [Hugging Face](https://huggingface.co/), [Code Ocean](https://codeocean.com/), [Zenodo](https://zenodo.org/), [ChemML](https://hachmannlab.github.io/chemml/index.html), [Datagrok](https://datagrok.ai/cheminformatics), [The Illustrated Machine Learning](https://illustrated-machine-learning.github.io/).
+
+### 9.1 Core Libraries
+- [RDKit](https://www.rdkit.org/) – Cheminformatics toolkit for molecular representation, search, and descriptors.  
+- [Pandas](https://pandas.pydata.org/) – Data analysis and manipulation.  
+- [NumPy](https://numpy.org/) – Numerical computing with arrays.  
+- [Scikit-learn](https://scikit-learn.org/stable/) – ML toolkit for classification, regression, and clustering.  
+- [Matplotlib](https://matplotlib.org/) – 2D plotting.  
+- [Seaborn](https://seaborn.pydata.org/) – Statistical data visualization.  
+
+### 9.2 ML & Deep Learning Frameworks
+- [Keras](https://keras.io/) – High-level API for neural networks.  
+- [TensorFlow](https://www.tensorflow.org/) – Scalable ML and deep learning framework.  
+- [PyTorch](https://pytorch.org/) – Popular deep learning framework.  
+- [JAX](https://github.com/google/jax) – High-performance ML with automatic differentiation.  
+
+### 9.3 Chemistry-focused ML Frameworks
+- [DeepChem](https://deepchem.io/) – ML for chemistry, biology, and materials science.  
+- [TorchDrug](https://torchdrug.ai/) – Graph learning toolkit for drug discovery.  
+- [Chemprop](https://chemprop.csail.mit.edu/) – GNN-based molecular property prediction.  
+- [MolBERT](https://github.com/BenevolentAI/MolBERT) – Transformer for molecular representations.  
+- [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) – Graph-based molecular generation.  
+- [DEEPScreen](https://github.com/cansyl/DEEPScreen) – CNN-based virtual screening from compound images.  
+- [OpenChem](https://github.com/Mariewelt/OpenChem) – DL toolkit for computational chemistry.  
+
+### 9.4 Pretrained Models & Repositories
+- [Hugging Face Models – Molecules](https://huggingface.co/models?pipeline_tag=feature-extraction&search=mol) – Pretrained chemical ML models.  
+- [MegaMolBART](https://github.com/valence-discovery/megabart) – Large-scale transformer for molecule generation.  
+- [MoLFormer](https://huggingface.co/facebook/molformer) – Molecular embeddings with transformers.  
+
+### 9.5 Platforms & AutoML
+- [MoleculeNet](https://moleculenet.org/) – Benchmark datasets for molecular ML.  
+- [Kaggle](https://www.kaggle.com/) – ML competitions and datasets.  
+- [Hugging Face](https://huggingface.co/) – AI model hosting and collaboration.  
+- [Code Ocean](https://codeocean.com/) – Reproducible ML experiment platform.  
+- [Zenodo](https://zenodo.org/) – Dataset and model repository.  
+- [Datagrok](https://datagrok.ai/cheminformatics) – Cheminformatics data platform with ML tools.  
+- [AutoGluon](https://auto.gluon.ai/stable/index.html) – AutoML for tabular, text, and image data.  
 
 ---
 
