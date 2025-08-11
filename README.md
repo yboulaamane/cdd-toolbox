@@ -1,4 +1,4 @@
-# Awesome Drug Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Drug Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > Drug discovery is the process by which new candidate medications are identified, designed, and developed, using experimental, computational, and informational techniques to address complex challenges in biology, chemistry, and medicine. — [Wikipedia](https://en.wikipedia.org/wiki/Drug_discovery)
 
