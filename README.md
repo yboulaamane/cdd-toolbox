@@ -289,4 +289,4 @@
 
 ---
 
-[🔼 Back to Top](#awesome-drug-discovery)
+[🔼 Back to Top](#1-databases--chemical-libraries)
