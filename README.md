@@ -287,4 +287,4 @@
 - [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) – AI in pharma with notebooks.
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) – Interactive AI/DL notebooks.
 
-[🔼 Back to Top](#awesome-drug-discovery-)
+[🔼 Back to Top](#awesome-drug-discovery)
