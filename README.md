@@ -123,6 +123,8 @@
 - [ChemMaster](https://crescent-silico.com/chemmaster/) – QSAR and cheminformatics suite.
 - [3D-QSAR](https://www.3d-qsar.com/) – 3D-QSAR modeling resources.
 - [QSAR-Co](https://sites.google.com/view/qsar-co/) – Robust multitarget QSAR modeling.
+- [DataWarrior](https://openmolecules.org/datawarrior/) – Free software for chemical analysis, QSAR, and visualization.
+- [KNIME](https://www.knime.com/) – Workflow platform for cheminformatics & ML integration.
 
 ### 3.3 Molecular Property Prediction
 - [SwissADME](http://www.swissadme.ch/) – Drug-likeness and PK.
@@ -134,6 +136,13 @@
 - [PreADMET](https://preadmet.webservice.bmdrc.org/) – PK property predictions.
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) – ADMET filtering.
 - [Admetboost](https://ai-druglab.smu.edu/admet) – ML-based ADMET prediction.
+
+### 3.4 Fragment-Based Drug Design
+
+- [SwissSidechain](https://www.swisssidechain.ch/) – Fragment and linker library for small molecule design.  
+- [ZINC Fragments](https://zinc15.docking.org/substances/subsets/fragments/) – Commercially available fragments for FBDD.  
+- [FragBuilder](https://github.com/andersx/fragbuilder) – Python API for building peptide-like and small molecule fragments.  
+- [SeeSAR](https://www.biosolveit.de/SeeSAR/) – Fragment growing and linking software (free academic version).  
 
 ---
 
@@ -208,7 +217,6 @@
 - [PepDraw](https://pepdraw.com/) – Peptide visualization.
 - [PepSite](http://pepsite2.russelllab.org/) – Predict peptide binding sites.
 - [Peptimap](https://peptimap.bu.edu/) – Peptide mapping.
-
 ---
 
 ## 9. Machine Learning & AI for Drug Discovery
