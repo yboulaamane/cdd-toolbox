@@ -32,7 +32,7 @@
    - [9.1 Core Libraries](#91-core-libraries)  
    - [9.2 ML & Deep Learning Frameworks](#92-ml--deep-learning-frameworks)  
    - [9.3 Chemistry-focused ML Frameworks](#93-chemistry-focused-ml-frameworks)  
-   - [9.4 Platforms & AutoML](#95-platforms--automl)  
+   - [9.4 Platforms & AutoML](#94-platforms--automl)  
 10. [Utility & Workflow Tools](#10-utility--workflow-tools)  
 11. [Learning Resources](#11-learning-resources)  
     - [11.1 Free Courses](#111-free-courses)  
