@@ -12,7 +12,8 @@
 - [Target and Protein Data](#target-and-protein-data)  
   - [Protein Structures](#protein-structures)  
   - [Binding Site and Pocket Detection](#binding-site-and-pocket-detection)  
-  - [Protein Engineering and Modeling](#protein-engineering-and-modeling)  
+  - [Protein Engineering and Modeling](#protein-engineering-and-modeling)
+- [Network Pharmacology](#network-pharmacology)  
 - [Ligand Design and Optimization](#ligand-design-and-optimization)  
   - [Pharmacophore Modeling](#pharmacophore-modeling)  
   - [QSAR and Descriptor Tools](#qsar-and-descriptor-tools)  
@@ -112,6 +113,17 @@
 - [SWISS-MODEL](https://swissmodel.expasy.org/) - A fully automated protein structure homology-modeling server.
 - [MODELLER](https://salilab.org/modeller/) - A software for homology or comparative modeling of protein structures.
 ---
+
+## Network Pharmacology
+- [GeneCards](https://www.genecards.org/) - Human gene database with genomic, proteomic, and clinical data.
+- [SwissTargetPrediction](http://www.swisstargetprediction.ch/) - Predicts targets of small molecules via similarity-based screening.
+- [STITCH](https://stitch.embl.de/) - Integrates chemical–protein interactions across organisms.
+- [STRING](https://string-db.org/) - A database of known and predicted protein–protein interactions.
+- [Cytoscape](https://cytoscape.org/) - Visualizes and analyzes molecular interaction networks.
+- [OmicsNet](https://www.omicsnet.ca/) - Builds multi-omics networks for systems biology.
+- [DisGeNET](https://disgenet.com/) - Curated gene–disease associations for network analysis.
+- [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - Identifies potential targets via reverse pharmacophore mapping.
+- [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - A web tool for comparing lists using Venn diagrams.
 
 ## Ligand Design and Optimization
 
@@ -220,7 +232,6 @@
 - [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
 - [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
 - [MANIFOLD](https://app.postera.ai/manifold/) - Search engine for synthetically accessible molecules and building blocks.
-
 ---
 
 ## Specialized Modalities
@@ -281,19 +292,14 @@
 - [Screening Explorer](http://stats.drugdesign.fr/) - Analyze screening datasets and hit distributions.
 - [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - Calculate RMSD between ligand poses.
 - [NERDD](https://nerdd.univie.ac.at/) - Curated drug discovery resources.
-- [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/) - Property prediction.
-- [WenMR Portal](https://wenmr.science.uu.nl/) - Biomolecular interactions software.
 - [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - De novo ligand design.
 - [ChemMine Tools](https://chemminetools.ucr.edu/) - Web-based cheminformatics toolkit for compound analysis.
 - [MayaChemTools](http://www.mayachemtools.org/index.html) - Perl/Python scripts for cheminformatics.
-- [SCBDD](http://www.scbdd.com/) - Cheminformatics and drug discovery software.
 - [Click2Drug](https://www.click2drug.org/) - CADD software and databases directory.
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - Galaxy instance for cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - CADD resources repository.
 - [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular structure prediction and modeling tools.
 - [PlayMolecule](https://open.playmolecule.org/landing) - Interactive molecular modeling and simulation platform.
-- [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - Venn diagram tool.
-
 ---
 
 ## Learning Resources
