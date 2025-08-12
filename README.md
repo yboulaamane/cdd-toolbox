@@ -5,48 +5,48 @@
 ---
 
 ## Contents
-[1. Databases and Chemical Libraries](#1-databases-and-chemical-libraries)  
-   - [1.1 General Compound Libraries](#11-general-compound-libraries)  
-   - [1.2 Natural Product Libraries](#12-natural-product-libraries)  
-   - [1.3 Bioactivity Databases](#13-bioactivity-databases)  
-[2. Target and Protein Data](#2-target-and-protein-data)  
-   - [2.1 Protein Structures](#21-protein-structures)  
-   - [2.2 Binding Site and Pocket Detection](#22-binding-site-and-pocket-detection)  
-   - [2.3 Protein Engineering and Modeling](#23-protein-engineering-and-modeling)  
-[3. Ligand Design and Optimization](#3-ligand-design-and-optimization)  
-   - [3.1 Pharmacophore Modeling](#31-pharmacophore-modeling)  
-   - [3.2 QSAR and Descriptor Tools](#32-qsar-and-descriptor-tools)  
-   - [3.3 Molecular Property Prediction](#33-molecular-property-prediction)
-   - [3.4 Descriptor and Featurization Tools](#34-descriptor-and-featurization-tools)
-   - [3.5 Fragment-Based Drug Design](#34-fragment-based-drug-design)
-[4. Virtual Screening and Docking](#4-virtual-screening-and-docking)  
-[5. Interaction Analysis and Visualization](#5-interaction-analysis-and-visualization)  
-[6. Molecular Dynamics and Simulation](#6-molecular-dynamics-and-simulation)  
-   - [6.1 Engines](#61-engines)  
-   - [6.2 Topology and Force Field Tools](#62-topology-and-force-field-tools)  
-   - [6.3 Analysis Tools](#63-analysis-tools)  
-[7. Synthesis and Retrosynthesis Planning](#7-synthesis-and-retrosynthesis-planning)  
-[8. Specialized Modalities](#8-specialized-modalities)  
-   - [8.1 PROTACs and Ternary Complexes](#81-protacs-and-ternary-complexes)  
-   - [8.2 Peptide Design](#82-peptide-design)  
-[9. Machine Learning and AI](#9-machine-learning-and-ai)  
-   - [9.1 Core Libraries](#91-core-libraries)  
-   - [9.2 Chemistry-focused ML Frameworks](#92-chemistry-focused-ml-frameworks)  
-   - [9.3 Pretrained Models](#93-pretrained-models)  
-   - [9.4 AutoML and Optimization](#94-automl-and-optimization)  
-   - [9.5 Molecule Standardization](#95-molecule-standardization)  
-[10. Utility and Workflow Tools](#10-utility-and-workflow-tools)  
-[11. Learning Resources](#11-learning-resources)  
-    - [11.1 Free Courses](#111-free-courses)  
-    - [11.2 Blogs](#112-blogs)  
-    - [11.3 Instructional Notebooks](#113-instructional-notebooks)  
-[12. Licensing](#12-licensing)  
+- [Databases and Chemical Libraries](#databases-and-chemical-libraries)  
+  - [General Compound Libraries](#general-compound-libraries)  
+  - [Natural Product Libraries](#natural-product-libraries)  
+  - [Bioactivity Databases](#bioactivity-databases)  
+- [Target and Protein Data](#target-and-protein-data)  
+  - [Protein Structures](#protein-structures)  
+  - [Binding Site and Pocket Detection](#binding-site-and-pocket-detection)  
+  - [Protein Engineering and Modeling](#protein-engineering-and-modeling)  
+- [Ligand Design and Optimization](#ligand-design-and-optimization)  
+  - [Pharmacophore Modeling](#pharmacophore-modeling)  
+  - [QSAR and Descriptor Tools](#qsar-and-descriptor-tools)  
+  - [Molecular Property Prediction](#molecular-property-prediction)  
+  - [Descriptor and Featurization Tools](#descriptor-and-featurization-tools)  
+  - [Fragment-Based Drug Design](#fragment-based-drug-design)  
+- [Virtual Screening and Docking](#virtual-screening-and-docking)  
+- [Interaction Analysis and Visualization](#interaction-analysis-and-visualization)  
+- [Molecular Dynamics and Simulation](#molecular-dynamics-and-simulation)  
+  - [Engines](#engines)  
+  - [Topology and Force Field Tools](#topology-and-force-field-tools)  
+  - [Analysis Tools](#analysis-tools)  
+- [Synthesis and Retrosynthesis Planning](#synthesis-and-retrosynthesis-planning)  
+- [Specialized Modalities](#specialized-modalities)  
+  - [PROTACs and Ternary Complexes](#protacs-and-ternary-complexes)  
+  - [Peptide Design](#peptide-design)  
+- [Machine Learning and AI](#machine-learning-and-ai)  
+  - [Core Libraries](#core-libraries)  
+  - [Chemistry-focused ML Frameworks](#chemistry-focused-ml-frameworks)  
+  - [Pretrained Models](#pretrained-models)  
+  - [AutoML and Optimization](#automl-and-optimization)  
+  - [Molecule Standardization](#molecule-standardization)  
+- [Utility and Workflow Tools](#utility-and-workflow-tools)  
+- [Learning Resources](#learning-resources)  
+  - [Free Courses](#free-courses)  
+  - [Blogs](#blogs)  
+  - [Instructional Notebooks](#instructional-notebooks)  
+- [Licensing](#licensing)  
 
 ---
 
-## 1. Databases and Chemical Libraries
+## Databases and Chemical Libraries
 
-### 1.1 General Compound Libraries
+### General Compound Libraries
 - [DrugBank](https://go.drugbank.com/) - Comprehensive drug data (approved and investigational).  
 - [ZINC](https://zinc.docking.org/) - Free compounds for screening.  
 - [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
@@ -56,7 +56,7 @@
 - [Otava Chemicals](https://www.otavachemicals.com/) - Screening compounds and building blocks.  
 - [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.  
 
-### 1.2 Natural Product Libraries
+### Natural Product Libraries
 - [COCONUT](https://coconut.naturalproducts.net/) - 400k+ natural products.  
 - [LOTUS](https://lotus.naturalproducts.net/) - Annotated molecular data with sourcing organisms.  
 - [NPASS](http://bidd.group/NPASS/index.php) - 94k activity-species links.  
@@ -81,7 +81,7 @@
 - [Seaweed Metabolite DB](https://www.swmd.co.in/) - Marine algae compounds.  
 - [Arabidopsis.org](https://www.arabidopsis.org/) - Arabidopsis molecular biology.  
 
-### 1.3 Bioactivity Databases
+### Bioactivity Databases
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Bioactivity and ADMET data.  
 - [SureChEMBL](https://www.surechembl.org/) - Patent chemistry search.  
 - [BindingDB](https://www.bindingdb.org/) - Binding affinities for biomolecules.  
@@ -94,9 +94,9 @@
 
 ---
 
-## 2. Target and Protein Data
+## Target and Protein Data
 
-### 2.1 Protein Structures
+### Protein Structures
 - [RCSB PDB](https://www.rcsb.org/) - Repository for macromolecular structures.
 - [PDBe](https://www.ebi.ac.uk/pdbe/) - European counterpart to RCSB PDB.
 - [OPM](https://opm.phar.umich.edu/) - Orientation of proteins in membranes.
@@ -105,7 +105,7 @@
 - [AlphaFold DB](https://alphafold.ebi.ac.uk/) - Predicted structures from AlphaFold.
 - [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page) - Interactive protein visualizations.
 
-### 2.2 Binding Site and Pocket Detection
+### Binding Site and Pocket Detection
 - [ProteinsPlus](https://proteins.plus/) - Binding site analysis.
 - [PrankWeb](https://prankweb.cz/) - Pocket prediction and analysis.
 - [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g) - Pocket geometry and volume analysis.
@@ -113,19 +113,19 @@
 - [CaverWeb](https://loschmidt.chemi.muni.cz/caverweb/) - Tunnel and channel detection.
 - [PASSer](https://passer.smu.edu/) - Allosteric site prediction.
 
-### 2.3 Protein Engineering and Modeling
+### Protein Engineering and Modeling
 - [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - Predicts mutation-induced stability changes.
 
 ---
 
-## 3. Ligand Design and Optimization
+## Ligand Design and Optimization
 
-### 3.1 Pharmacophore Modeling
+### Pharmacophore Modeling
 - [ZINCPharmer](http://zincpharmer.csb.pitt.edu/) - Pharmacophore screening.
 - [Pharmit](https://pharmit.csb.pitt.edu/) - Interactive pharmacophore modeling.
 - [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - Pharmacophore mapping.
 
-### 3.2 QSAR and Descriptor Tools
+### QSAR and Descriptor Tools
 - [QSAR Toolbox](https://qsartoolbox.org/) - Hazard assessment and QSAR.
 - [OCHEM](https://ochem.eu/home/show.do) - QSAR model building and prediction.
 - [ChemMaster](https://crescent-silico.com/chemmaster/) - QSAR and cheminformatics suite.
@@ -134,7 +134,7 @@
 - [DataWarrior](https://openmolecules.org/datawarrior/) - Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) - Workflow platform for cheminformatics and ML integration.
   
-### 3.3 Descriptor and Featurization Tools
+### Descriptor and Featurization Tools
 - [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.  
 - [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) - Java tool for calculating molecular descriptors and fingerprints.  
 - [Mordred](https://github.com/mordred-descriptor/mordred) - Python library with 1800+ molecular descriptors.  
@@ -144,7 +144,7 @@
 - [DeepChem Featurizers](https://deepchem.io/) - Featurization for graph neural networks, CNNs, and sequence models.  
 - [Dragon](https://www.talete.mi.it/products/dragon_description.htm) - Commercial molecular descriptor calculator (widely cited).  
 
-### 3.4 Molecular Property Prediction
+### Molecular Property Prediction
 - [SwissADME](http://www.swissadme.ch/) - Drug-likeness and PK.
 - [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/) - ADMET property prediction.
 - [DeepPK](https://biosig.lab.uq.edu.au/deeppk/) - DL-based pharmacokinetics.
@@ -155,7 +155,7 @@
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) - ADMET filtering.
 - [Admetboost](https://ai-druglab.smu.edu/admet) - ML-based ADMET prediction.
 
-### 3.5 Fragment-Based Drug Design
+### Fragment-Based Drug Design
 
 - [SwissSidechain](https://www.swisssidechain.ch/) - Fragment and linker library for small molecule design.  
 - [FragBuilder](https://github.com/andersx/fragbuilder) - Python API for building peptide-like and small molecule fragments.  
@@ -164,7 +164,7 @@
   
 ---
 
-## 4. Virtual Screening and Docking
+## Virtual Screening and Docking
 - [OpenBabel](https://openbabel.org/index.html) - Format conversion and ligand prep.
 - [MGLTools](https://ccsb.scripps.edu/mgltools/) - Structure preparation.
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
@@ -186,37 +186,37 @@
 
 ---
 
-## 5. Interaction Analysis and Visualization
+## Interaction Analysis and Visualization
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - 2D interaction diagrams.
 - [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - Advanced visualization.
 
 ---
 
-## 6. Molecular Dynamics and Simulation
+## Molecular Dynamics and Simulation
 
-### 6.1 Engines
+### Engines
 - [GROMACS](https://www.gromacs.org/) - Scalable MD engine.
 - [LAMMPS](https://www.lammps.org/) - Parallel MD for materials and biomolecules.
 - [NAMD](https://www.ks.uiuc.edu/Research/namd/) - High-performance biomolecular MD.
 - [AMBER](https://ambermd.org/) - Suite for biomolecular simulations.
 - [Desmond](https://www.deshawresearch.com/resources.html) - High-performance MD.
 
-### 6.2 Topology and Force Field Tools
+### Topology and Force Field Tools
 - [CGenFF](https://cgenff.umaryland.edu/) - CHARMM force field parametrization.
 - [SwissParam](https://www.swissparam.ch/) - Small molecule parameters.
 - [ATB](https://atb.uq.edu.au/) - Automated topology builder.
 - [CHARMM-GUI](https://www.charmm-gui.org/) - Input and topology preparation.
 - [LigParGen](https://zarbi.chem.yale.edu/ligpargen/) - Ligand FF parameters.
 
-### 6.3 Analysis Tools
+### Analysis Tools
 - [MD DaVis](https://md-davis.readthedocs.io/en/latest/index.html) - Interactive MD visualizations.
 - [iMod](https://imods.iqfr.csic.es/) - Normal Mode Analysis.
 - [MolAiCal](https://molaical.github.io/) - Binding free energy calculations.
 
 ---
 
-## 7. Synthesis and Retrosynthesis Planning
+## Synthesis and Retrosynthesis Planning
 - [Spaya](https://spaya.ai/app/search) - AI retrosynthesis.
 - [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Monte Carlo retrosynthesis.
 - [ASKCOS](https://askcos.mit.edu/) - Reaction planning with ML.
@@ -225,49 +225,49 @@
 
 ---
 
-## 8. Specialized Modalities
+## Specialized Modalities
 
-### 8.1 PROTACs and Ternary Complexes
+### PROTACs and Ternary Complexes
 - [PROTAC-db](http://cadd.zju.edu.cn/protacdb/) - PROTAC data.
 - [PROsettaC](https://prosettac.weizmann.ac.il/) - Ternary complex modeling.
 
-### 8.2 Peptide Design
+### Peptide Design
 - [PepDraw](https://pepdraw.com/) - Peptide visualization.
 - [PepSite](http://pepsite2.russelllab.org/) - Predict peptide binding sites.
 - [Peptimap](https://peptimap.bu.edu/) - Peptide mapping.
 ---
 
-## 9. Machine Learning and AI
+## Machine Learning and AI
 
-### 9.1 Core Libraries
+### Core Libraries
 - [scikit-learn](https://scikit-learn.org/) - General-purpose machine learning library for classification, regression, clustering, and model evaluation.
 - [scikit-mol](https://github.com/datamol-io/scikit-mol) - Scikit-learn compatible cheminformatics extensions for molecular machine learning.
 - [pytorch-geometric](https://pytorch-geometric.readthedocs.io/) - PyTorch-based library for graph neural networks (GNNs).
 - [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 
-### 9.2 Chemistry-focused ML Frameworks
+### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
 - [Chemprop](https://github.com/chemprop/chemprop) - Directed message passing neural networks for molecular property prediction.
 - [ChemML](https://github.com/hachmannlab/chemml) - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
 - [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
 - [TorchDrug](https://torchdrug.ai/) - A machine learning library for drug discovery with support for GNNs and molecular datasets.
 
-### 9.3 Pretrained Models
+### Pretrained Models
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - Transformer-based molecular representation learning.
 - [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) - Pretrained BERT-like models for molecules from SMILES.
 - [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) - 3D molecular representation learning framework.
 
-### 9.4 AutoML and Optimization
+### AutoML and Optimization
 - [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) - Automated machine learning for scikit-learn.
 - [TPOT](https://epistasislab.github.io/tpot/) - Genetic programming-based AutoML for optimizing ML pipelines.
 - [Optuna](https://optuna.org/) - Hyperparameter optimization framework for machine learning.
 
-### 9.5 Molecule Standardization
+### Molecule Standardization
 - [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization library based on RDKit.
 
 ---
 
-## 10. Utility and Workflow Tools
+## Utility and Workflow Tools
 - [OPSIN](https://opsin.ch.cam.ac.uk) - IUPAC name to structure.
 - [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Image to structure.
 - [MetaPredict](http://metapredict.icoa.fr/) - Molecular property prediction.
@@ -293,9 +293,9 @@
 
 ---
 
-## 11. Learning Resources
+## Learning Resources
 
-### 11.1 Free Courses
+### Free Courses
 - [TMP Chem Lectures](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) - Computational chemistry lectures.
 - [Strasbourg Summer School in Chemoinformatics](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - Summer school lectures.
 - [BIGCHEM](https://bigchem.eu/node/63) - Big data in chemistry course.
@@ -306,7 +306,7 @@
 - [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python-based docking.
 - [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Generative drug design.
 
-### 11.2 Blogs
+### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Fragment-based drug design.
 - [avrilomics](https://avrilomics.blogspot.com/) - Genomics and bioinformatics.
 - [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Cheminformatics tools.
@@ -322,12 +322,12 @@
 - [Jeremy Monat](https://bertiewooster.github.io/) - Cheminformatics research.
 - [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - Computational chemistry research.
 
-### 11.3 Instructional Notebooks
+### Instructional Notebooks
 - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Jupyter tutorials for CADD.
 - [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - AI in pharma with notebooks.
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive AI/DL notebooks.
 
 ---
 
-## 12. Licensing
+## Licensing
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
