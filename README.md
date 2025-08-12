@@ -40,7 +40,7 @@
   - [Free Courses](#free-courses)  
   - [Blogs](#blogs)  
   - [Instructional Notebooks](#instructional-notebooks)  
-- [Licensing](#licensing)  
+- [License](#license)  
 
 ---
 
