@@ -340,6 +340,7 @@
 ### Instructional Notebooks
 - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Jupyter tutorials for CADD.
 - [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - AI in pharma with notebooks.
+- [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Jupyter-based tutorials covering RDKit, clustering, SAR, generative models, and ML workflows.
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive AI/DL notebooks.
 
 ---
