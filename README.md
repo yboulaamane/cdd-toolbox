@@ -324,14 +324,12 @@
 
 ### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Fragment-based drug design.
-- [avrilomics](https://avrilomics.blogspot.com/) - Genomics and bioinformatics.
 - [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Cheminformatics tools.
 - [Cheminformania](https://www.cheminformania.com/) - Cheminformatics and deep learning.
 - [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) - Data science insights.
 - [Machine Learning Mastery](https://machinelearningmastery.com/) - ML tutorials.
 - [Chem-Workflows](https://chem-workflows.com/index.html) - Jupyter chemistry tutorials.
 - [Structural Bioinformatics](https://proteinstructures.com/) - Structure-based drug design guide.
-- [Bioinformatics Answers](https://www.biostars.org/) - Bioinformatics Q&A.
 - [McConnellsMedChem](https://mcconnellsmedchem.com/) - Medicinal chemistry blog.
 - [DrugDiscovery.NET](http://www.drugdiscovery.net/) - AI in drug discovery.
 - [MacinChem](https://macinchem.org/) - Comp chem on macOS.
