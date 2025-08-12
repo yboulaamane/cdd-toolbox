@@ -123,6 +123,8 @@
 - [OmicsNet](https://www.omicsnet.ca/) - Builds multi-omics networks for systems biology.
 - [DisGeNET](https://disgenet.com/) - Curated gene–disease associations for network analysis.
 - [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - Identifies potential targets via reverse pharmacophore mapping.
+- [ChEA3](https://maayanlab.cloud/chea3/) - Transcription factor enrichment tool integrating ChIP-seq, co-expression, and perturbation datasets.
+- [miRDB](https://mirdb.org/) - Predicts functional microRNA targets using machine learning and high-throughput data.
 - [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - A web tool for comparing lists using Venn diagrams.
 
 ## Ligand Design and Optimization
@@ -224,6 +226,7 @@
 - [iMod](https://imods.iqfr.csic.es/) - Normal Mode Analysis toolkit using internal coordinates.
 - [MolAiCal](https://molaical.github.io/) - Web-based platform for binding free energy calculations using MM/PBSA and MM/GBSA methods.
 - [gmx_MMPBSA](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/) - Port of AMBER’s MMPBSA.py for GROMACS.
+- [VMD](https://www.ks.uiuc.edu/Research/vmd/) - Large biomolecular systems visualization and analysis using 3D graphics and scripting.
 ---
 
 ## Synthesis and Retrosynthesis Planning
