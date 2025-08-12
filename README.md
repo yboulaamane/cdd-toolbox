@@ -120,7 +120,8 @@
 - [SwissTargetPrediction](http://www.swisstargetprediction.ch/) - Predicts targets of small molecules via similarity-based screening.
 - [STITCH](https://stitch.embl.de/) - Integrates chemical–protein interactions across organisms.
 - [STRING](https://string-db.org/) - A database of known and predicted protein–protein interactions.
-- [Cytoscape](https://cytoscape.org/) - Visualizes and analyzes molecular interaction networks.
+- [Cytoscape](https://cytoscape.org/) - Visualizes and analyzes molecular interaction networks
+- [Open Targets](https://platform.opentargets.org/) - Integrative platform for therapeutic target identification.
 - [OmicsNet](https://www.omicsnet.ca/) - Builds multi-omics networks for systems biology.
 - [DisGeNET](https://disgenet.com/) - Curated gene–disease associations for network analysis.
 - [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - Identifies potential targets via reverse pharmacophore mapping.
@@ -295,7 +296,6 @@
 - [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Extract chemical structures from images.
 - [ChemPlot](https://chemplot.streamlit.app/) - Chemical space visualization.
 - [ChemDB](http://cdb.ics.uci.edu/) - Chemoinformatics portal with compound data and tools.
-- [Open Targets](https://platform.opentargets.org/) - Integrative platform for therapeutic target identification.
 - [Screening Explorer](http://stats.drugdesign.fr/) - Analyze screening datasets and hit distributions.
 - [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - Calculate RMSD between ligand poses.
 - [NERDD](https://nerdd.univie.ac.at/) - Curated drug discovery resources.
