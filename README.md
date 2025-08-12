@@ -53,7 +53,10 @@
 - [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces.  
 - [Mcule](https://mcule.com/) - Virtual screening platform with purchasable compounds.  
 - [Otava Chemicals](https://www.otavachemicals.com/) - Screening compounds and building blocks.  
-- [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.  
+- [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.
+- [Eximed](https://eximedlab.com/Screening-Compounds.html) - 60k+ compounds for virtual screening.
+- [OTAVA NP-like Library](https://otavachemicals.com/sdf) - Screening compounds for prompt delivery.
+- [Ambinter](https://www.ambinter.com/) - 40M+ compounds for HTS, building blocks, and a wide selection of fragments and natural products.  
 
 ### Natural Product Libraries
 - [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
@@ -63,23 +66,17 @@
 - [AfroDB](http://african-compounds.org/about/afrodb/) - 4k+ African medicinal plant compounds.  
 - [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.  
 - [SistematX](https://sistematx.ufpb.br/) - 8k+ secondary metabolites.  
-- [Eximed](https://eximedlab.com/Screening-Compounds.html) - 5k+ natural product-like screening compounds.  
 - [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - 900 coumarins.  
 - [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - Artemisia genus compounds.  
-- [OTAVA NP-like Library](https://otavachemicals.com/products/compound-libraries-for-hts/natural-product-like-library) - 1k+ NP-like compounds.  
-- [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - Bioactive peptides and proteins.  
+- [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.  
 - [IMPPAT](https://cb.imsc.res.in/imppat/home) - Phytochemicals from Indian medicinal plants.  
 - [NP-MRD](https://np-mrd.org/natural_products) - 280k+ NMR-based NP studies.  
 - [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - 60k+ compounds.  
-- [Phytochemicals](https://www.phytochemicals.info/) - Comprehensive phytochemical info.  
-- [NPACT](https://webs.iiitd.edu.in/raghava/npact/index.html) - Plant-based anticancer compounds.  
-- [NaturAr](https://naturar.quimica.unlp.edu.ar/en/) - Argentine biodiversity compounds.  
-- [DiaNat-DB](http://rdu.iquimica.unam.mx/handle/20.500.12214/1186) - Antidiabetic plant compounds.  
 - [PhytoHub](https://phytohub.eu/) - Dietary phytochemicals and metabolites.  
 - [Dr. Duke's Phytochemical DB](https://phytochem.nal.usda.gov/) - Plant compounds and uses.  
 - [CyanoMetDB](https://zenodo.org/records/13854577) - Cyanobacterial metabolites.  
 - [Seaweed Metabolite DB](https://www.swmd.co.in/) - Marine algae compounds.  
-- [Arabidopsis.org](https://www.arabidopsis.org/) - Arabidopsis molecular biology.  
+- [FooDB](https://foodb.ca/) - A comprehensive resource on food constituents.  
 
 ### Bioactivity Databases
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) - Bioactivity and ADMET data.  
