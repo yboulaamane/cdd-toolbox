@@ -238,7 +238,12 @@
 ### Core Libraries
 - [scikit-learn](https://scikit-learn.org/) - General-purpose ML library for classification, regression, clustering, and model evaluation.
 - [PyTorch](https://pytorch.org/) - Deep learning framework with extensive support for neural network modeling.
-- []() - 
+- [TensorFlow](https://www.tensorflow.org/) - End-to-end ML platform for scalable model development and deployment.
+- [Keras](https://keras.io/) - High-level neural network API running on top of TensorFlow, designed for fast experimentation.
+- [NumPy](https://numpy.org/) - Core library for numerical computing with support for arrays, matrices, and linear algebra.
+- [Pandas](https://pandas.pydata.org/) - Data manipulation and analysis toolkit built on top of NumPy.
+- [Matplotlib](https://matplotlib.org/) - Comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization library built on top of Matplotlib.
 
 ### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
