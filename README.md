@@ -130,6 +130,22 @@
 - [QSAR-Co](https://sites.google.com/view/qsar-co/) – Robust multitarget QSAR modeling.
 - [DataWarrior](https://openmolecules.org/datawarrior/) – Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) – Workflow platform for cheminformatics & ML integration.
+  
+**Descriptor & Featurization Tools**
+- [RDKit](https://www.rdkit.org/) – Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.  
+- [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) – Java tool for calculating molecular descriptors and fingerprints.  
+- [Mordred](https://github.com/mordred-descriptor/mordred) – Python library with 1800+ molecular descriptors.  
+- [CDK](https://cdk.github.io/) – Java cheminformatics library with descriptor calculators.  
+- [alvaDesc](https://www.alvascience.com/alvadesc/) – Commercial software for molecular descriptors and fingerprints.  
+- [MolFeat](https://molfeat.datamol.io/) – Python package for molecular featurization and embeddings.
+  
+**Fingerprints (in RDKit & others)**:  
+  - *Morgan (ECFP)* – Circular fingerprints for molecular similarity & ML.  
+  - *MACCS keys* – 166-bit substructure keys.  
+  - *Atom Pair* – Encodes atom-pair relationships.  
+  - *Topological Torsion* – Fragment-based connectivity patterns.  
+- [DeepChem Featurizers](https://deepchem.io/) – Featurization for graph neural networks, CNNs, and sequence models.  
+- [Dragon](https://www.talete.mi.it/products/dragon_description.htm) – Commercial molecular descriptor calculator (widely cited).  
 
 ### 3.3 Molecular Property Prediction
 - [SwissADME](http://www.swissadme.ch/) – Drug-likeness and PK.
