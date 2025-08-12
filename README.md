@@ -225,7 +225,7 @@
 - [MD DaVis](https://md-davis.readthedocs.io/en/latest/index.html) - Interactive visualization and analysis of MD trajectories.
 - [iMod](https://imods.iqfr.csic.es/) - Normal Mode Analysis toolkit using internal coordinates.
 - [MolAiCal](https://molaical.github.io/) - Web-based platform for binding free energy calculations using MM/PBSA and MM/GBSA methods.
-- [gmx_MMPBSA](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/) - Port of AMBER’s MMPBSA.py for GROMACS.
+- [gmx_MMPBSA](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/) - Port of AMBER MMPBSA.py for GROMACS.
 - [VMD](https://www.ks.uiuc.edu/Research/vmd/) - Large biomolecular systems visualization and analysis using 3D graphics and scripting.
 - [Grace](https://plasma-gate.weizmann.ac.il/Grace/) - 2D plotting tool for Unix-like systems with advanced graphing, fitting, and analysis features.
 ---
