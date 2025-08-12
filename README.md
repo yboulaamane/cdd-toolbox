@@ -47,9 +47,8 @@
 ## Databases and Chemical Libraries
 
 ### General Compound Libraries
-- [DrugBank](https://go.drugbank.com/) - Comprehensive drug data (approved and investigational).  
+- [DrugBank](https://go.drugbank.com/) - Comprehensive data on approved and investigational drugs.
 - [ZINC](https://zinc.docking.org/) - Free compounds for screening.  
-- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
 - [ChemSpider](http://www.chemspider.com/) - Chemical structures and data.  
 - [DrugSpaceX](https://drugspacex.simm.ac.cn/) - Chemical and biological spaces.  
 - [Mcule](https://mcule.com/) - Virtual screening platform with purchasable compounds.  
@@ -57,6 +56,7 @@
 - [Vitas-M Laboratory](https://vitasmlab.biz/) - Chemical libraries for HTS and lead discovery.  
 
 ### Natural Product Libraries
+- [ZINC15 Natural Products](https://zinc15.docking.org/substances/subsets/natural-products/) - 200k+ natural compounds.  
 - [COCONUT](https://coconut.naturalproducts.net/) - 400k+ natural products.  
 - [LOTUS](https://lotus.naturalproducts.net/) - Annotated molecular data with sourcing organisms.  
 - [NPASS](http://bidd.group/NPASS/index.php) - 94k activity-species links.  
