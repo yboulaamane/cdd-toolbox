@@ -1,4 +1,4 @@
-# Awesome Drug Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+# Awesome Drug Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Drug discovery is the process by which new candidate medications are identified, designed, and developed, using experimental, computational, and informational techniques to address complex challenges in biology, chemistry, and medicine. — [Wikipedia](https://en.wikipedia.org/wiki/Drug_discovery)
 
@@ -28,16 +28,18 @@
 8. [Specialized Modalities](#8-specialized-modalities)  
    - [8.1 PROTACs & Ternary Complexes](#81-protacs--ternary-complexes)  
    - [8.2 Peptide Design](#82-peptide-design)  
-9. [Machine Learning & AI for Drug Discovery](#9-machine-learning--ai-for-drug-discovery)  
+9. [Machine Learning & AI](#9-machine-learning--ai)  
    - [9.1 Core Libraries](#91-core-libraries)  
-   - [9.2 ML & Deep Learning Frameworks](#92-ml--deep-learning-frameworks)  
-   - [9.3 Chemistry-focused ML Frameworks](#93-chemistry-focused-ml-frameworks)  
-   - [9.4 Platforms & AutoML](#94-platforms--automl)  
+   - [9.2 Chemistry-focused ML Frameworks](#92-chemistry-focused-ml-frameworks)  
+   - [9.3 Pretrained Models](#93-pretrained-models)  
+   - [9.4 AutoML & Optimization](#94-automl--optimization)  
+   - [9.5 Molecule Standardization](#95-molecule-standardization)  
 10. [Utility & Workflow Tools](#10-utility--workflow-tools)  
 11. [Learning Resources](#11-learning-resources)  
     - [11.1 Free Courses](#111-free-courses)  
     - [11.2 Blogs](#112-blogs)  
     - [11.3 Instructional Notebooks](#113-instructional-notebooks)  
+12. [Licensing](#12-licensing)  
 
 ---
 
@@ -240,39 +242,33 @@
 - [Peptimap](https://peptimap.bu.edu/) – Peptide mapping.
 ---
 
-## 9. Machine Learning & AI for Drug Discovery
+## 9. Machine Learning & AI
 
 ### 9.1 Core Libraries
-- [RDKit](https://www.rdkit.org/) – Cheminformatics toolkit for molecular representation, search, and descriptors.  
-- [Pandas](https://pandas.pydata.org/) – Data analysis and manipulation.  
-- [NumPy](https://numpy.org/) – Numerical computing with arrays.  
-- [Scikit-learn](https://scikit-learn.org/stable/) – ML toolkit for classification, regression, and clustering.  
-- [Matplotlib](https://matplotlib.org/) – 2D plotting.  
-- [Seaborn](https://seaborn.pydata.org/) – Statistical data visualization.  
+- [scikit-learn](https://scikit-learn.org/) – General-purpose machine learning library for classification, regression, clustering, and model evaluation.
+- [scikit-mol](https://github.com/datamol-io/scikit-mol) – Scikit-learn compatible cheminformatics extensions for molecular machine learning.
+- [pytorch-geometric](https://pytorch-geometric.readthedocs.io/) – PyTorch-based library for graph neural networks (GNNs).
+- [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) – Graph deep learning toolkit for life sciences using the Deep Graph Library.
 
-### 9.2 ML & Deep Learning Frameworks
-- [Keras](https://keras.io/) – High-level API for neural networks.  
-- [TensorFlow](https://www.tensorflow.org/) – Scalable ML and deep learning framework.  
-- [PyTorch](https://pytorch.org/) – Popular deep learning framework.  
-- [JAX](https://github.com/google/jax) – High-performance ML with automatic differentiation.  
+### 9.2 Chemistry-focused ML Frameworks
+- [DeepChem](https://github.com/deepchem/deepchem) – Open-source deep learning framework for chemistry and biology.
+- [Chemprop](https://github.com/chemprop/chemprop) – Directed message passing neural networks for molecular property prediction.
+- [ChemML](https://github.com/hachmannlab/chemml) – Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
+- [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) – Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
+- [TorchDrug](https://torchdrug.ai/) – A machine learning library for drug discovery with support for GNNs and molecular datasets.
 
-### 9.3 Chemistry-focused ML Frameworks
-- [DeepChem](https://deepchem.io/) – ML for chemistry, biology, and materials science.  
-- [TorchDrug](https://torchdrug.ai/) – Graph learning toolkit for drug discovery.  
-- [Chemprop](https://chemprop.csail.mit.edu/) – GNN-based molecular property prediction.  
-- [MolBERT](https://github.com/BenevolentAI/MolBERT) – Transformer for molecular representations.  
-- [GraphINVENT](https://github.com/MolecularAI/GraphINVENT) – Graph-based molecular generation.  
-- [DEEPScreen](https://github.com/cansyl/DEEPScreen) – CNN-based virtual screening from compound images.  
-- [OpenChem](https://github.com/Mariewelt/OpenChem) – DL toolkit for computational chemistry.  
+### 9.3 Pretrained Models
+- [MolBERT](https://github.com/BenevolentAI/MolBERT) – Transformer-based molecular representation learning.
+- [ChemBERTa](https://huggingface.co/seyonec/ChemBERTa-zinc-base-v1) – Pretrained BERT-like models for molecules from SMILES.
+- [Uni-Mol](https://github.com/dptech-corp/Uni-Mol) – 3D molecular representation learning framework.
 
-### 9.4 Platforms & AutoML
-- [MoleculeNet](https://moleculenet.org/) – Benchmark datasets for molecular ML.  
-- [Kaggle](https://www.kaggle.com/) – ML competitions and datasets.  
-- [Hugging Face](https://huggingface.co/) – AI model hosting and collaboration.  
-- [Code Ocean](https://codeocean.com/) – Reproducible ML experiment platform.  
-- [Zenodo](https://zenodo.org/) – Dataset and model repository.  
-- [Datagrok](https://datagrok.ai/cheminformatics) – Cheminformatics data platform with ML tools.  
-- [AutoGluon](https://auto.gluon.ai/stable/index.html) – AutoML for tabular, text, and image data.  
+### 9.4 AutoML & Optimization
+- [Auto-sklearn](https://automl.github.io/auto-sklearn/master/) – Automated machine learning for scikit-learn.
+- [TPOT](https://epistasislab.github.io/tpot/) – Genetic programming-based AutoML for optimizing ML pipelines.
+- [Optuna](https://optuna.org/) – Hyperparameter optimization framework for machine learning.
+
+### 9.5 Molecule Standardization
+- [MolVS](https://github.com/mcs07/MolVS) – Molecule validation and standardization library based on RDKit.
 
 ---
 
@@ -337,5 +333,8 @@
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) – Interactive AI/DL notebooks.
 
 ---
+
+## 12. Licensing
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [🔼 Back to Top](#1-databases--chemical-libraries)
