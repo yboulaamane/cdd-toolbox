@@ -17,7 +17,8 @@
    - [3.1 Pharmacophore Modeling](#31-pharmacophore-modeling)  
    - [3.2 QSAR and Descriptor Tools](#32-qsar-and-descriptor-tools)  
    - [3.3 Molecular Property Prediction](#33-molecular-property-prediction)
-   - [3.4 Fragment-Based Drug Design](#34-fragment-based-drug-design)
+   - [3.4 Descriptor and Featurization Tools](#34-descriptor-and-featurization-tools)
+   - [3.5 Fragment-Based Drug Design](#34-fragment-based-drug-design)
 4. [Virtual Screening and Docking](#4-virtual-screening-and-docking)  
 5. [Interaction Analysis and Visualization](#5-interaction-analysis-and-visualization)  
 6. [Molecular Dynamics and Simulation](#6-molecular-dynamics-and-simulation)  
@@ -133,23 +134,17 @@
 - [DataWarrior](https://openmolecules.org/datawarrior/) - Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) - Workflow platform for cheminformatics and ML integration.
   
-**Descriptor and Featurization Tools**
+### 3.3 Descriptor and Featurization Tools
 - [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.  
 - [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) - Java tool for calculating molecular descriptors and fingerprints.  
 - [Mordred](https://github.com/mordred-descriptor/mordred) - Python library with 1800+ molecular descriptors.  
 - [CDK](https://cdk.github.io/) - Java cheminformatics library with descriptor calculators.  
 - [alvaDesc](https://www.alvascience.com/alvadesc/) - Commercial software for molecular descriptors and fingerprints.  
 - [MolFeat](https://molfeat.datamol.io/) - Python package for molecular featurization and embeddings.
-  
-**Fingerprints (in RDKit and others)**:  
-  - *Morgan (ECFP)* - Circular fingerprints for molecular similarity and ML.  
-  - *MACCS keys* - 166-bit substructure keys.  
-  - *Atom Pair* - Encodes atom-pair relationships.  
-  - *Topological Torsion* - Fragment-based connectivity patterns.  
 - [DeepChem Featurizers](https://deepchem.io/) - Featurization for graph neural networks, CNNs, and sequence models.  
 - [Dragon](https://www.talete.mi.it/products/dragon_description.htm) - Commercial molecular descriptor calculator (widely cited).  
 
-### 3.3 Molecular Property Prediction
+### 3.4 Molecular Property Prediction
 - [SwissADME](http://www.swissadme.ch/) - Drug-likeness and PK.
 - [pkCSM](https://biosig.lab.uq.edu.au/pkcsm/) - ADMET property prediction.
 - [DeepPK](https://biosig.lab.uq.edu.au/deeppk/) - DL-based pharmacokinetics.
@@ -160,7 +155,7 @@
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) - ADMET filtering.
 - [Admetboost](https://ai-druglab.smu.edu/admet) - ML-based ADMET prediction.
 
-### 3.4 Fragment-Based Drug Design
+### 3.5 Fragment-Based Drug Design
 
 - [SwissSidechain](https://www.swisssidechain.ch/) - Fragment and linker library for small molecule design.  
 - [FragBuilder](https://github.com/andersx/fragbuilder) - Python API for building peptide-like and small molecule fragments.  
