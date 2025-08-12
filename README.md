@@ -132,7 +132,7 @@
 ### Pharmacophore Modeling
 - [ZINCPharmer](http://zincpharmer.csb.pitt.edu/) - Pharmacophore screening.
 - [Pharmit](https://pharmit.csb.pitt.edu/) - Interactive pharmacophore modeling.
-- [PharmMapper](https://www.lilab-ecust.cn/pharmmapper/) - Pharmacophore mapping.
+- [AnchorQuery](http://anchorquery.csb.pitt.edu/) - Pharmacophore-based search engine specialized in protein–protein interaction sites.
 
 ### QSAR and Descriptor Tools
 - [QSAR Toolbox](https://qsartoolbox.org/) - Hazard assessment and QSAR.
