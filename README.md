@@ -40,8 +40,6 @@
   - [Free Courses](#free-courses)  
   - [Blogs](#blogs)  
   - [Instructional Notebooks](#instructional-notebooks)  
-- [License](#license)  
-
 ---
 
 ## Databases and Chemical Libraries
@@ -325,6 +323,3 @@
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive AI/DL notebooks.
 
 ---
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
