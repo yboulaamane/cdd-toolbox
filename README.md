@@ -148,10 +148,12 @@
 - [PreADMET](https://preadmet.webservice.bmdrc.org/) - PK property predictions.
 - [FAF-Drugs](https://bioserv.rpbs.univ-paris-diderot.fr/services.html) - ADMET filtering.
 - [Admetboost](https://ai-druglab.smu.edu/admet) - ML-based ADMET prediction.
+- [MetaPredict](http://metapredict.icoa.fr/) - Predict molecular properties from structure.
 
 ### Fragment-Based Drug Design
 
-- [SwissSidechain](https://www.swisssidechain.ch/) - Fragment and linker library for small molecule design.  
+- [SwissSidechain](https://www.swisssidechain.ch/) - Fragment and linker library for small molecule design.
+- [BoBER](http://bober.insilab.org/) - Bioisosteric replacements for lead optimization.
 - [FragBuilder](https://github.com/andersx/fragbuilder) - Python API for building peptide-like and small molecule fragments.  
 - [SeeSAR](https://www.biosolveit.de/SeeSAR/) - Fragment growing and linking software (free academic version).
 - [Enamine Fragment Libraries](https://enamine.net/compound-libraries/fragment-libraries) - Large curated collection of diverse fragments for FBDD.
@@ -271,27 +273,25 @@
 
 ## Utility and Workflow Tools
 - [ProteinsPlus](https://proteins.plus/) - A web-based platform designed to assist life scientists in analyzing and working with protein structures.
-- [OPSIN](https://opsin.ch.cam.ac.uk) - IUPAC name to structure.
-- [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Image to structure.
-- [MetaPredict](http://metapredict.icoa.fr/) - Molecular property prediction.
+- [OPSIN](https://opsin.ch.cam.ac.uk) - Convert IUPAC names to chemical structures.
+- [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Extract chemical structures from images.
 - [ChemPlot](https://chemplot.streamlit.app/) - Chemical space visualization.
-- [ChemDB](http://cdb.ics.uci.edu/) - Chemoinformatics portal.
-- [BoBER](http://bober.insilab.org/) - Bioisosteric replacements.
-- [Open Targets](https://platform.opentargets.org/) - Target identification.
-- [Screening Explorer](http://stats.drugdesign.fr/) - Screening data analysis.
-- [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - Ligand RMSD calculation.
-- [NERDD](https://nerdd.univie.ac.at/) - Drug discovery resources.
+- [ChemDB](http://cdb.ics.uci.edu/) - Chemoinformatics portal with compound data and tools.
+- [Open Targets](https://platform.opentargets.org/) - Integrative platform for therapeutic target identification.
+- [Screening Explorer](http://stats.drugdesign.fr/) - Analyze screening datasets and hit distributions.
+- [LigRMSD](https://ligrmsd.appsbio.utalca.cl/) - Calculate RMSD between ligand poses.
+- [NERDD](https://nerdd.univie.ac.at/) - Curated drug discovery resources.
 - [MetaChemiBio](https://biochemia.uwm.edu.pl/metachemibio/) - Property prediction.
 - [WenMR Portal](https://wenmr.science.uu.nl/) - Biomolecular interactions software.
-- [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - Ligand design.
-- [ChemMine Tools](https://chemminetools.ucr.edu/) - Cheminformatics tools.
+- [LigBuilder3](http://www.pkumdl.cn:8080/ligbuilder3/) - De novo ligand design.
+- [ChemMine Tools](https://chemminetools.ucr.edu/) - Web-based cheminformatics toolkit for compound analysis.
 - [MayaChemTools](http://www.mayachemtools.org/index.html) - Perl/Python scripts for cheminformatics.
 - [SCBDD](http://www.scbdd.com/) - Cheminformatics and drug discovery software.
-- [Click2Drug](https://www.click2drug.org/) - CADD software and DB directory.
+- [Click2Drug](https://www.click2drug.org/) - CADD software and databases directory.
 - [Galaxy Europe](https://usegalaxy-eu.github.io/index-cheminformatics.html) - Galaxy instance for cheminformatics.
 - [CADD Vault](https://drugbud-suite.github.io/CADD_Vault/) - CADD resources repository.
-- [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular modeling tools.
-- [PlayMolecule](https://open.playmolecule.org/landing) - Molecular modeling simulations.
+- [BioMoDes](https://abeebyekeen.com/biomodes-biomolecular-structure-prediction/) - Biomolecular structure prediction and modeling tools.
+- [PlayMolecule](https://open.playmolecule.org/landing) - Interactive molecular modeling and simulation platform.
 - [Venny 2.1](https://bioinfogp.cnb.csic.es/tools/venny/) - Venn diagram tool.
 
 ---
