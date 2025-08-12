@@ -144,6 +144,7 @@
 - [QSAR-Co](https://sites.google.com/view/qsar-co/) - Robust multitarget QSAR modeling.
 - [DataWarrior](https://openmolecules.org/datawarrior/) - Free software for chemical analysis, QSAR, and visualization.
 - [KNIME](https://www.knime.com/) - Workflow platform for cheminformatics and ML integration.
+- [pyADA](https://github.com/jeffrichardchemistry/pyADA) - Assesses the applicability domain of molecular fingerprints via similarity-based thresholds for QSAR validation.
   
 ### Descriptor and Featurization Tools
 - [RDKit](https://www.rdkit.org/) - Open-source cheminformatics toolkit with descriptor, fingerprint, and molecular manipulation support.  
