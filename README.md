@@ -72,7 +72,7 @@
 - [IBS Natural Compounds](https://www.ibscreen.com/natural-compounds) - 60k+ compounds.  
 - [PhytoHub](https://phytohub.eu/) - Dietary phytochemicals and metabolites.  
 - [Dr. Duke's Phytochemical DB](https://phytochem.nal.usda.gov/) - Plant compounds and uses.  
-- [CyanoMetDB](https://zenodo.org/records/13854577) - Cyanobacterial metabolites.  
+- [CyanoMetDB](https://zenodo.org/records/13854577) - Over 3,000 cyanobacterial metabolites.  
 - [Seaweed Metabolite DB](https://www.swmd.co.in/) - Marine algae compounds.  
 - [FooDB](https://foodb.ca/) - A comprehensive resource on food constituents.  
 
@@ -83,8 +83,8 @@
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov/) - Structures, properties, and bioassays.  
 - [PDBbind](http://www.pdbbind.org.cn/index.php) - Protein-ligand affinity data.  
 - [BRENDA](https://www.brenda-enzymes.org/) - Enzyme properties and functions.  
-- [ExCAPE-DB](https://solr.ideaconsult.net/search/excape/) - Chemogenomics DB.  
-- [Therapeutics Data Commons](https://tdcommons.ai/) - AI datasets for therapeutics.
+- [ExCAPE-DB](https://solr.ideaconsult.net/search/excape/) - A large-scale chemogenomics database.  
+- [Therapeutics Data Commons](https://tdcommons.ai/) - AI/ML-ready datasets and learning tasks for therapeutics.
 - [Therapeutic Target Database (TTD)](https://idrblab.net/ttd/) - Drug targets with linked diseases and compounds.
 
 ---
@@ -101,7 +101,6 @@
 - [Proteopedia](https://proteopedia.org/wiki/index.php/Main_Page) - Interactive protein visualizations.
 
 ### Binding Site and Pocket Detection
-- [ProteinsPlus](https://proteins.plus/) - Binding site analysis.
 - [PrankWeb](https://prankweb.cz/) - Pocket prediction and analysis.
 - [CASTp](http://sts.bioe.uic.edu/castp/index.html?2r7g) - Pocket geometry and volume analysis.
 - [CavityPlus](http://www.pkumdl.cn:8000/cavityplus/index.php#/) - Pocket detection and druggability.
@@ -110,7 +109,8 @@
 
 ### Protein Engineering and Modeling
 - [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - Predicts mutation-induced stability changes.
-
+- [SWISS-MODEL](https://swissmodel.expasy.org/) - A fully automated protein structure homology-modeling server.
+- [MODELLER](https://salilab.org/modeller/) - A software for homology or comparative modeling of protein structures.
 ---
 
 ## Ligand Design and Optimization
@@ -136,7 +136,6 @@
 - [CDK](https://cdk.github.io/) - Java cheminformatics library with descriptor calculators.  
 - [alvaDesc](https://www.alvascience.com/alvadesc/) - Commercial software for molecular descriptors and fingerprints.  
 - [MolFeat](https://molfeat.datamol.io/) - Python package for molecular featurization and embeddings.
-- [DeepChem Featurizers](https://deepchem.io/) - Featurization for graph neural networks, CNNs, and sequence models.  
 - [Dragon](https://www.talete.mi.it/products/dragon_description.htm) - Commercial molecular descriptor calculator (widely cited).  
 
 ### Molecular Property Prediction
@@ -185,67 +184,70 @@
 - [PLIP](https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index) - Protein-ligand interaction profiling.
 - [LigPlot+](https://www.ebi.ac.uk/thornton-srv/software/LigPlus/) - 2D interaction diagrams.
 - [Discovery Studio Visualizer](https://discover.3ds.com/discovery-studio-visualizer-download) - Advanced visualization.
+- [PyMOL](https://www.pymol.org/) - Python-based molecular visualization software.
+- [UCSF ChimeraX](https://www.rbvi.ucsf.edu/chimerax/) - A molecular visualization program with emphasis on structural biology.
 
 ---
 
 ## Molecular Dynamics and Simulation
 
 ### Engines
-- [GROMACS](https://www.gromacs.org/) - Scalable MD engine.
-- [LAMMPS](https://www.lammps.org/) - Parallel MD for materials and biomolecules.
-- [NAMD](https://www.ks.uiuc.edu/Research/namd/) - High-performance biomolecular MD.
-- [AMBER](https://ambermd.org/) - Suite for biomolecular simulations.
-- [Desmond](https://www.deshawresearch.com/resources.html) - High-performance MD.
+- [GROMACS](https://www.gromacs.org/) - Fast, scalable MD engine optimized for biomolecular simulations and energy minimization.
+- [LAMMPS](https://www.lammps.org/) - Classical MD simulator for materials science and soft matter.
+- [NAMD](https://www.ks.uiuc.edu/Research/namd/) - Highly parallel MD engine tailored for large biomolecular systems.
+- [AMBER](https://ambermd.org/) - Suite for biomolecular simulations and free energy calculations.
+- [Desmond](https://www.deshawresearch.com/resources.html) - GPU-accelerated MD engine for high-performance simulations.
 
 ### Topology and Force Field Tools
-- [CGenFF](https://cgenff.umaryland.edu/) - CHARMM force field parametrization.
-- [SwissParam](https://www.swissparam.ch/) - Small molecule parameters.
-- [ATB](https://atb.uq.edu.au/) - Automated topology builder.
-- [CHARMM-GUI](https://www.charmm-gui.org/) - Input and topology preparation.
-- [LigParGen](https://zarbi.chem.yale.edu/ligpargen/) - Ligand FF parameters.
+- [CGenFF](https://cgenff.umaryland.edu/) - CHARMM force field parametrization of drug-like molecules.
+- [SwissParam](https://www.swissparam.ch/) - Rapid generation of CHARMM-compatible parameters for small organic molecules.
+- [ATB](https://atb.uq.edu.au/) - Automated topology builder and repository for classical force field parameters.
+- [CHARMM-GUI](https://www.charmm-gui.org/) - Web-based interface for building complex biomolecular systems and generating MD input files.
+- [LigParGen](https://zarbi.chem.yale.edu/ligpargen/) - Automated OPLS-AA parameter generator for organic ligands.
 
 ### Analysis Tools
-- [MD DaVis](https://md-davis.readthedocs.io/en/latest/index.html) - Interactive MD visualizations.
-- [iMod](https://imods.iqfr.csic.es/) - Normal Mode Analysis.
-- [MolAiCal](https://molaical.github.io/) - Binding free energy calculations.
-
+- [MD DaVis](https://md-davis.readthedocs.io/en/latest/index.html) - Interactive visualization and analysis of MD trajectories.
+- [iMod](https://imods.iqfr.csic.es/) - Normal Mode Analysis toolkit using internal coordinates.
+- [MolAiCal](https://molaical.github.io/) - Web-based platform for binding free energy calculations using MM/PBSA and MM/GBSA methods.
+- [gmx_MMPBSA](https://valdes-tresanco-ms.github.io/gmx_MMPBSA/dev/) - Port of AMBER’s MMPBSA.py for GROMACS.
 ---
 
 ## Synthesis and Retrosynthesis Planning
-- [Spaya](https://spaya.ai/app/search) - AI retrosynthesis.
-- [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Monte Carlo retrosynthesis.
-- [ASKCOS](https://askcos.mit.edu/) - Reaction planning with ML.
-- [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction.
-- [MANIFOLD](https://app.postera.ai/manifold/) - Synthetic accessibility and search.
+- [Spaya](https://spaya.ai/app/search) - AI-driven retrosynthesis engine with route ranking and synthetic feasibility scoring.
+- [AiZynthFinder](https://github.com/MolecularAI/aizynthfinder) - Monte Carlo tree search-based retrosynthesis using trained neural networks.
+- [ASKCOS](https://askcos.mit.edu/) - Synthesis route prediction with ML, developed by MIT.
+- [IBM RoboRXN](https://rxn.res.ibm.com/rxn/robo-rxn/welcome) - Automated reaction prediction using transformer models.
+- [MANIFOLD](https://app.postera.ai/manifold/) - Search engine for synthetically accessible molecules and building blocks.
 
 ---
 
 ## Specialized Modalities
 
 ### PROTACs and Ternary Complexes
-- [PROTAC-db](http://cadd.zju.edu.cn/protacdb/) - PROTAC data.
-- [PROsettaC](https://prosettac.weizmann.ac.il/) - Ternary complex modeling.
+- [PROTAC-db](http://cadd.zju.edu.cn/protacdb/) - Curated database of PROTAC molecules, targets, and linkers for degrader design.
+- [PROsettaC](https://prosettac.weizmann.ac.il/) - Structure-based modeling of ternary complexes for targeted protein degradation.
 
 ### Peptide Design
-- [PepDraw](https://pepdraw.com/) - Peptide visualization.
-- [PepSite](http://pepsite2.russelllab.org/) - Predict peptide binding sites.
-- [Peptimap](https://peptimap.bu.edu/) - Peptide mapping.
+- [PepDraw](https://pepdraw.com/) - Peptide visualization with annotated physicochemical properties.
+- [PepSite](http://pepsite2.russelllab.org/) - Predict peptide binding sites on protein surfaces using structural data.
+- [Peptimap](https://peptimap.bu.edu/) - Peptide mapping and binding hotspots identification.
 ---
 
 ## Machine Learning and AI
 
 ### Core Libraries
-- [scikit-learn](https://scikit-learn.org/) - General-purpose machine learning library for classification, regression, clustering, and model evaluation.
-- [scikit-mol](https://github.com/datamol-io/scikit-mol) - Scikit-learn compatible cheminformatics extensions for molecular machine learning.
-- [pytorch-geometric](https://pytorch-geometric.readthedocs.io/) - PyTorch-based library for graph neural networks (GNNs).
-- [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - Graph deep learning toolkit for life sciences using the Deep Graph Library.
+- [scikit-learn](https://scikit-learn.org/) - General-purpose ML library for classification, regression, clustering, and model evaluation.
+- [PyTorch](https://pytorch.org/) - Deep learning framework with extensive support for neural network modeling.
+- []() - 
 
 ### Chemistry-focused ML Frameworks
 - [DeepChem](https://github.com/deepchem/deepchem) - Open-source deep learning framework for chemistry and biology.
+- [scikit-mol](https://github.com/datamol-io/scikit-mol) - Scikit-learn compatible cheminformatics extensions for molecular ML workflows.  
 - [Chemprop](https://github.com/chemprop/chemprop) - Directed message passing neural networks for molecular property prediction.
 - [ChemML](https://github.com/hachmannlab/chemml) - Machine learning and informatics suite for analyzing, mining, and modeling chemical and materials data.
 - [Oloren ChemEngine](https://github.com/Oloren-AI/olorenchemengine) - Unified API for molecular property prediction with uncertainty quantification, interpretability, and model tuning.
 - [TorchDrug](https://torchdrug.ai/) - A machine learning library for drug discovery with support for GNNs and molecular datasets.
+- [DGL-LifeSci](https://github.com/awslabs/dgl-lifesci) - Graph deep learning toolkit for life sciences using the Deep Graph Library.
 
 ### Pretrained Models
 - [MolBERT](https://github.com/BenevolentAI/MolBERT) - Transformer-based molecular representation learning.
@@ -263,6 +265,7 @@
 ---
 
 ## Utility and Workflow Tools
+- [ProteinsPlus](https://proteins.plus/) - A web-based platform designed to assist life scientists in analyzing and working with protein structures.
 - [OPSIN](https://opsin.ch.cam.ac.uk) - IUPAC name to structure.
 - [OSRA](https://cactus.nci.nih.gov/cgi-bin/osra/index.cgi) - Image to structure.
 - [MetaPredict](http://metapredict.icoa.fr/) - Molecular property prediction.
