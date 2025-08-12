@@ -112,6 +112,7 @@
 - [DynaMut](https://biosig.lab.uq.edu.au/dynamut/) - Predicts mutation-induced stability changes.
 - [SWISS-MODEL](https://swissmodel.expasy.org/) - A fully automated protein structure homology-modeling server.
 - [MODELLER](https://salilab.org/modeller/) - A software for homology or comparative modeling of protein structures.
+- [PDBFixer](https://github.com/openmm/pdbfixer) - Repairs PDB files by adding missing atoms, residues, and hydrogens for MD simulations.
 ---
 
 ## Network Pharmacology
@@ -176,6 +177,8 @@
 
 ## Virtual Screening and Docking
 - [OpenBabel](https://openbabel.org/index.html) - Format conversion and ligand prep.
+- [Meeko](https://github.com/forlilab/Meeko) - Prepares ligands for AutoDock by generating 3D structures and assigning torsions.
+- [MolScrub](https://github.com/forlilab/molscrub) - Enumerates tautomers, pH states, and conformers for docking and structure-based modeling.
 - [MGLTools](https://ccsb.scripps.edu/mgltools/) - Structure preparation.
 - [AutoDockTools](https://autodocksuite.scripps.edu/adt/) - AutoDock GUI.
 - [AutoDock Vina](https://vina.scripps.edu/) - Popular docking software.
