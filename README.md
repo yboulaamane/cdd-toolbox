@@ -327,6 +327,7 @@
 ### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Fragment-based drug design.
 - [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Cheminformatics tools.
+- [Neovarsity](https://neovarsity.org/blogs?categories=CHEMINFORMATICS) - A deep-tech learning platform offering insightful posts on cheminformatics and its applications in drug discovery.
 - [Cheminformania](https://www.cheminformania.com/) - Cheminformatics and deep learning.
 - [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) - Data science insights.
 - [Machine Learning Mastery](https://machinelearningmastery.com/) - ML tutorials.
