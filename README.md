@@ -121,7 +121,7 @@
 - [SwissTargetPrediction](http://www.swisstargetprediction.ch/) - Predicts targets of small molecules via similarity-based screening.
 - [STITCH](https://stitch.embl.de/) - Integrates chemical–protein interactions across organisms.
 - [STRING](https://string-db.org/) - A database of known and predicted protein–protein interactions.
-- [Cytoscape](https://cytoscape.org/) - Visualizes and analyzes molecular interaction networks
+- [Cytoscape](https://cytoscape.org/) - Visualizes and analyzes molecular interaction networks.
 - [Open Targets](https://platform.opentargets.org/) - Integrative platform for therapeutic target identification.
 - [OmicsNet](https://www.omicsnet.ca/) - Builds multi-omics networks for systems biology.
 - [DisGeNET](https://disgenet.com/) - Curated gene–disease associations for network analysis.
@@ -336,7 +336,6 @@
 - [DrugDiscovery.NET](http://www.drugdiscovery.net/) - AI in drug discovery.
 - [MacinChem](https://macinchem.org/) - Comp chem on macOS.
 - [Jeremy Monat](https://bertiewooster.github.io/) - Cheminformatics research.
-- [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - Computational chemistry research.
 
 ### Instructional Notebooks
 - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Jupyter tutorials for CADD.
@@ -352,7 +351,7 @@
 - [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - High-performance computing for computational chemistry and cheminformatics. (University of Connecticut, USA)
 - [Laboratory of Chemoinformatics](https://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/team/) - QSAR/QSPR, chemical similarity, and virtual screening. (Université de Strasbourg / CNRS, France)
 - [Erastova Lab](https://www.erastova.xyz/) - Molecular modeling of soft matter and biomolecular simulations. (University of Edinburgh, UK)
-- [The Ballester Group](https://ballestergroup.github.io/) – Developing ML/AI methods for structure-based scoring and virtual screening. (Imperial College London, UK)
+- [The Ballester Group](https://ballestergroup.github.io/) - Developing ML/AI methods for structure-based scoring and virtual screening. (Imperial College London, UK)
 - [Meiler Lab](https://meilerlab.org/) - Rosetta software, protein design, and ML-based protein engineering. (Vanderbilt / Leipzig University, USA / Germany)
 - [Bonvin Lab](https://www.bonvinlab.org/) - Computational structural biology, HADDOCK, and integrative modeling. (Utrecht University, Netherlands)
 - [Volkamer Lab](https://volkamerlab.org/) - Binding site analysis and AI-powered virtual screening. (Saarland University, Germany)
