@@ -1,5 +1,5 @@
 # Awesome Drug Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Computational methods to develop and optimize new therapeutics.
+A meticulously curated resource list focused on computational methods for drug discovery.
 
 > Drug discovery is the process by which new candidate medications are identified, designed, and developed using experimental, computational, and informational techniques to address complex challenges in biology, chemistry, and medicine. — [Wikipedia](https://en.wikipedia.org/wiki/Drug_discovery)
 
