@@ -343,4 +343,20 @@
 - [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Jupyter-based tutorials covering RDKit, clustering, SAR, generative models, and ML workflows.
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive AI/DL notebooks.
 
+## Labs & Research Groups
+
+- [Carlsson Lab](https://www.carlssonlab.org/) - GPCR modeling, receptor-ligand interactions, MD, docking, and AI for drug discovery. (Uppsala University, Sweden)
+- [InSiliChem](https://insilichem.com/) - Computational chemobiology and metalloenzyme design. (Universitat Autònoma de Barcelona, Spain)
+- [LCBC](https://sites.google.com/view/lcbc) - Molecular dynamics, free energy calculations, retrosynthesis using machine learning. (Seoul National University, Korea) 
+- [Angelo Raymond Rossi](https://angeloraymondrossi.github.io/) - High-performance computing for computational chemistry and cheminformatics. (University of Connecticut, USA)
+- [Laboratory of Chemoinformatics](https://complex-matter.unistra.fr/en/research-teams/laboratory-of-chemoinformatics/team/) - QSAR/QSPR, chemical similarity, and virtual screening. (Université de Strasbourg / CNRS, France)
+- [Erastova Lab](https://www.erastova.xyz/) - Molecular modeling of soft matter and biomolecular simulations. (University of Edinburgh, UK)
+- [The Ballester Group](https://ballestergroup.github.io/) – Developing ML/AI methods for structure-based scoring and virtual screening. (Imperial College London, UK)
+- [Meiler Lab](https://meilerlab.org/) - Rosetta software, protein design, and ML-based protein engineering. (Vanderbilt / Leipzig University, USA / Germany)
+- [Bonvin Lab](https://www.bonvinlab.org/) - Computational structural biology, HADDOCK, and integrative modeling. (Utrecht University, Netherlands)
+- [Volkamer Lab](https://volkamerlab.org/) - Binding site analysis and AI-powered virtual screening. (Saarland University, Germany)
+- [AI Laboratory for Molecular Engineering](https://ailab.bio/) - PROTACs, molecular glues, and ML for chemistry and life sciences. (Chalmers University, Sweden)  
+- [Loschmidt Labs - PEG](https://loschmidt.chemi.muni.cz/peg/) - Protein and enzyme engineering, AI-assisted enzyme design. (Masaryk University, Czechia)
+- [QSAR4U](https://qsar4u.com/index.php) - Cheminformatics tools, QSAR modeling, CReM, and EasyDock. (Palacky University, Czechia)
+
 ---
