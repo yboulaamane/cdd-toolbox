@@ -338,6 +338,7 @@ Computational methods to develop and optimize new therapeutics.
 - [MacinChem](https://macinchem.org/) - Computational chemistry tools for macOS users.
 - [Jeremy Monat](https://bertiewooster.github.io/) - Cheminformatics research and academic resources.
 - [RDKit blog](https://greglandrum.github.io/rdkit-blog/) - A rich collection of tutorials, technical tips, and experimental insights from Greg Landrum.
+- [DeepMedChem](https://www.deepmedchem.com/) - AI-powered insights, tool reviews, and workflows for modern drug discovery.
 
 ### Instructional Notebooks
 - [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Modular Jupyter tutorials for CADD workflows and concepts.
