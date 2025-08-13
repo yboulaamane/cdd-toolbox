@@ -67,7 +67,7 @@ Computational methods to develop and optimize new therapeutics.
 - [AfroDB](http://african-compounds.org/about/afrodb/) - 4k+ African medicinal plant compounds.  
 - [CMNPD](https://www.cmnpd.org/) - 31k+ marine natural products.  
 - [SistematX](https://sistematx.ufpb.br/) - 8k+ secondary metabolites.  
-- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - 900 coumarins.  
+- [CoumarinDB](https://yboulaamane.github.io/CoumarinDB/) - A manually curated database on coumarins from plants.  
 - [ArtemisiaDB](https://yboulaamane.github.io/ArtemisiaDB/) - Artemisia genus compounds.  
 - [BIAdb](https://webs.iiitd.edu.in/raghava/biadb/type.php?tp=natural) - A database for benzylisoquinoline alkaloids.  
 - [IMPPAT](https://cb.imsc.res.in/imppat/home) - Phytochemicals from Indian medicinal plants.  
