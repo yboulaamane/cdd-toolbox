@@ -354,6 +354,7 @@ Computational methods to develop and optimize new therapeutics.
 - [Erastova Lab](https://www.erastova.xyz/) - Molecular modeling of soft matter and biomolecular simulations. (University of Edinburgh, UK)
 - [The Ballester Group](https://ballestergroup.github.io/) - Developing ML/AI methods for structure-based scoring and virtual screening. (Imperial College London, UK)
 - [Meiler Lab](https://meilerlab.org/) - Rosetta software, protein design, and ML-based protein engineering. (Vanderbilt / Leipzig University, USA / Germany)
+- [COMP3D](https://comp3d.univie.ac.at/) - Develops and applies AI methods to design safe, effective pharmaceuticals and agrochemicals. (University of Vienna, Austria) 
 - [Bonvin Lab](https://www.bonvinlab.org/) - Computational structural biology, HADDOCK, and integrative modeling. (Utrecht University, Netherlands)
 - [Volkamer Lab](https://volkamerlab.org/) - Binding site analysis and AI-powered virtual screening. (Saarland University, Germany)
 - [AI Laboratory for Molecular Engineering](https://ailab.bio/) - PROTACs, molecular glues, and ML for chemistry and life sciences. (Chalmers University, Sweden)  
