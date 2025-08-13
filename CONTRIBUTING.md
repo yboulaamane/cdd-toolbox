@@ -10,13 +10,13 @@ This repository is a curated list of resources, so maintaining consistency and q
 1. **Create or Update a Section**  
    - If your resource doesn’t fit an existing section, create a new one.  
    - Provide a short description for the section.  
-   - Add the section title to the Table of Contents.
+   - Add the section title to the Contents.
 
 2. **Add a Resource**  
    - Check existing entries to avoid duplicates.  
    - Format new entries as:  
      ```
-     * [project-name](http://example.com/) – Short description ending with a period.
+     * [project-name](http://example.com/) - Short description ending with a period.
      ```
    - Keep descriptions short and clear (one sentence).  
    - If the tool has unique features, list them in bullet points beneath the main entry.
