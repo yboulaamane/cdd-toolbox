@@ -314,35 +314,34 @@
 ## Learning Resources
 
 ### Free Courses
-- [TMP Chem Lectures](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) - Computational chemistry lectures.
+- [TMP Chem Lectures](https://youtube.com/playlist?list=PLm8ZSArAXicIWTHEWgHG5mDr8YbrdcN1K) - Recorded lectures from a leading cheminformatics summer school.
 - [Strasbourg Summer School in Chemoinformatics](https://youtube.com/playlist?list=PLhgURFExPmJsDuHevu5n8y0R41WsXfbnC) - Summer school lectures.
-- [BIGCHEM](https://bigchem.eu/node/63) - Big data in chemistry course.
-- [Geometric Deep Learning Course](https://geometricdeeplearning.com/lectures/) - GDL for ML in science.
-- [Drug Discovery Course](https://www.stereoelectronics.org/webDD/DD_home.html) - Drug discovery fundamentals.
-- [drugdesign.org](https://www.drugdesign.org/) - Drug design and cheminformatics courses.
-- [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics) - Cheminformatics theory and coding.
-- [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python-based docking.
-- [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Generative drug design.
+- [BIGCHEM](https://bigchem.eu/node/63) - Online course on big data applications in chemistry.
+- [Drug Discovery Course](https://www.stereoelectronics.org/webDD/DD_home.html) - Foundations of drug discovery and development.
+- [drugdesign.org](https://www.drugdesign.org/) - Free courses on drug design and cheminformatics.
+- [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics) - Intercollegiate course on cheminformatics theory and coding.
+- [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python tutorials for molecular docking via RCSB.
+- [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Workshop on generative and computational drug design.
 
 ### Blogs
-- [Practical Fragments](http://practicalfragments.blogspot.com/) - Fragment-based drug design.
-- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Cheminformatics tools.
-- [Neovarsity](https://neovarsity.org/blogs?categories=CHEMINFORMATICS) - A deep-tech learning platform offering insightful posts on cheminformatics and its applications in drug discovery.
-- [Cheminformania](https://www.cheminformania.com/) - Cheminformatics and deep learning.
-- [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) - Data science insights.
-- [Machine Learning Mastery](https://machinelearningmastery.com/) - ML tutorials.
-- [Chem-Workflows](https://chem-workflows.com/index.html) - Jupyter chemistry tutorials.
-- [Structural Bioinformatics](https://proteinstructures.com/) - Structure-based drug design guide.
-- [McConnellsMedChem](https://mcconnellsmedchem.com/) - Medicinal chemistry blog.
-- [DrugDiscovery.NET](http://www.drugdiscovery.net/) - AI in drug discovery.
-- [MacinChem](https://macinchem.org/) - Comp chem on macOS.
-- [Jeremy Monat](https://bertiewooster.github.io/) - Cheminformatics research.
+- [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
+- [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Tools and tips for cheminformatics workflows.
+- [Neovarsity](https://neovarsity.org/blogs?categories=CHEMINFORMATICS) - Deep-tech blog on cheminformatics and drug discovery applications.
+- [Cheminformania](https://www.cheminformania.com/) - Cheminformatics meets deep learning and molecular modeling.
+- [Daily Dose of Data Science](https://www.blog.dailydoseofds.com/) - Digestible data science tutorials and concepts.
+- [Machine Learning Mastery](https://machinelearningmastery.com/) - Practical ML guides for developers and scientists.
+- [Chem-Workflows](https://chem-workflows.com/index.html) - Jupyter-based chemistry workflows and tutorials.
+- [Structural Bioinformatics](https://proteinstructures.com/) - Guide to structure-based drug design and protein modeling.
+- [McConnellsMedChem](https://mcconnellsmedchem.com/) - Medicinal chemistry insights and commentary.
+- [DrugDiscovery.NET](http://www.drugdiscovery.net/) - AI-powered approaches to drug discovery.
+- [MacinChem](https://macinchem.org/) - Computational chemistry tools for macOS users.
+- [Jeremy Monat](https://bertiewooster.github.io/) - Cheminformatics research and academic resources.
 
 ### Instructional Notebooks
-- [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Jupyter tutorials for CADD.
-- [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - AI in pharma with notebooks.
-- [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Jupyter-based tutorials covering RDKit, clustering, SAR, generative models, and ML workflows.
-- [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive AI/DL notebooks.
+- [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/all_talktorials.html) - Modular Jupyter tutorials for CADD workflows and concepts.
+- [intro_pharma_ai](https://github.com/kochgroup/intro_pharma_ai) - Notebook-based introduction to AI applications in pharma.
+- [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Hands-on Jupyter tutorials for RDKit, SAR, clustering, generative models, and ML pipelines.
+- [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive notebooks showcasing AI/DL use cases in life sciences.
 
 ## Labs and Research Groups
 
