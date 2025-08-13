@@ -40,7 +40,8 @@
 - [Learning Resources](#learning-resources)  
   - [Free Courses](#free-courses)  
   - [Blogs](#blogs)  
-  - [Instructional Notebooks](#instructional-notebooks)  
+  - [Instructional Notebooks](#instructional-notebooks)
+- [Labs and Research Groups](#labs-and-research-groups)
 ---
 
 ## Databases and Chemical Libraries
@@ -343,7 +344,7 @@
 - [Practical Cheminformatics Tutorials](https://github.com/PatWalters/practical_cheminformatics_tutorials) - Jupyter-based tutorials covering RDKit, clustering, SAR, generative models, and ML workflows.
 - [AI/DL for Life Sciences](https://onlinelibrary.wiley.com/doi/10.1002/ardp.202200628) - Interactive AI/DL notebooks.
 
-## Labs & Research Groups
+## Labs and Research Groups
 
 - [Carlsson Lab](https://www.carlssonlab.org/) - GPCR modeling, receptor-ligand interactions, MD, docking, and AI for drug discovery. (Uppsala University, Sweden)
 - [InSiliChem](https://insilichem.com/) - Computational chemobiology and metalloenzyme design. (Universitat Autònoma de Barcelona, Spain)
