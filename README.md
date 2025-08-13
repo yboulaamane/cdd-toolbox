@@ -323,6 +323,7 @@ A meticulously curated resource list focused on computational methods for drug d
 - [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics) - Intercollegiate course on cheminformatics theory and coding.
 - [Python For Cheminformatics Docking](https://pdb101.rcsb.org/train/training-events/python4) - Python tutorials for molecular docking via RCSB.
 - [DDA CDD Workshop](https://wcair.dundee.ac.uk/training/training-resources/computational-drug-design/) - Workshop on generative and computational drug design.
+- [MDTutorials](http://www.mdtutorials.com/gmx/) - Step-by-step tutorials for MD simulations using GROMACS.
 
 ### Blogs
 - [Practical Fragments](http://practicalfragments.blogspot.com/) - Insights into fragment-based drug discovery.
